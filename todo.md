@@ -20,6 +20,22 @@
 - [ ] Determine adjective behavior
 - [ ] Determine adverb formation
 
+## Adjectival and Adverbal / Descriptive Morphology
+
+- [ ] Create a general adjective/adverb-forming morph or morphs
+  - Example target:
+    - Va[x] → watery / wet
+
+### Example Targets
+
+- [ ] watery / wet
+- [ ] rocky
+- [ ] dirty
+- [ ] windy
+- [ ] heavenly
+- [ ] salty
+- [ ] holy
+- [ ] corrupted / damned
 ---
 
 # Prepositions
