@@ -20,7 +20,7 @@
 - [ ] Determine adjective behavior
 - [ ] Determine adverb formation
 
-## Adjectival and Adverbal / Descriptive Morphology
+## Adjectival and Adverbial  / Descriptive Morphology
 
 - [ ] Create a general adjective/adverb-forming morph or morphs
   - Example target:
