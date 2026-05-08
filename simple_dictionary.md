@@ -94,7 +94,7 @@ NahVah pronunciation is intentionally phonetic and relatively shallow.
 | NahVah | IPA | Literal / Root Meaning | English |
 |---|---|---|---|
 | Gish | /giʃ/ | place / location | place |
-| Gosh | /gɒʃ/ | home | home |
+| Gosh | /gɒʃ/ ; dial. /goʃ/ | home | home |
 
 ---
 
