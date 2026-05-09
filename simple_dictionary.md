@@ -81,9 +81,23 @@ NahVah pronunciation is intentionally phonetic and relatively shallow.
 
 | NahVah | IPA | Literal / Root Meaning | English |
 |---|---|---|---|
+| Dahn | /dan/ | away-from | away from |
 | Dar | /dar/ | toward / movement-to | to / toward |
+| Dazh | /daʒ/ | beside-relation | beside / near |
+| Den | /den/ | beyond-relation | beyond |
+| Det | /det/ | inward-relation | inside / within |
+| Dez | /dez/ | regarding-relation | about / regarding |
+| Dezh | /deʒ/ | outward-relation | outside |
+| Dēp | /deːp/ | surface-relation | on / upon |
 | Dēsh | /deːʃ/ | *(historically uncertain)* | land / homeland |
 | DēshRahn | /deːʃ.raːn/ | land-animal | land animal |
+| Di | /di/ | of / from / relational | of / from |
+| Din | /din/ | upper-relation | above |
+| Dip | /dip/ | middle-relation | between |
+| Dizh | /diʒ/ | lower-relation | below / beneath |
+| DiMar | /di.mar/ | of-the-eternal | devotional angelic term |
+| Dut | /dut/ | passage-relation | through |
+| Duzh | /duʒ/ | surrounding-relation | around |
 | Di | /di/ | of / from / relational | of / from |
 | DiMar | /di.mar/ | of-the-eternal | devotional angelic term |
 
