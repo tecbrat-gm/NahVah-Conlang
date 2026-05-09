@@ -467,7 +467,31 @@ The origin of the final `k` is often forgotten.
 | Word | Meaning |
 |---|---|
 | Di | of / from / relational |
-| Dar | to / toward (movement) |
+| Dar | to / toward |
+| Dahn | away from |
+| Dez | about / regarding |
+| Din | above |
+| Den | beyond |
+| Dizh | below / beneath |
+| Dip | between |
+| Dēp | on / upon |
+| Dut | through |
+| Duzh | around |
+| Det | inside / within |
+| Dezh | outside |
+| Dazh | beside / near |
+
+## Notes
+
+NahVah prepositions commonly form recognizable sound families.
+
+The `D-` family broadly conveys:
+- relation
+- direction
+- spatial orientation
+- conceptual positioning
+
+This pattern emerged organically through common usage and later became recognized as a grammatical category.
 
 ## Design Direction
 
