@@ -398,6 +398,18 @@ Nouns may naturally become verbs through usage.
 
 ---
 
+## Modal / Conditional Concepts
+
+- [ ] possibility
+- [ ] obligation
+- [ ] uncertainty
+- [ ] hypothetical states
+- [ ] conditional structures
+- [ ] necessity
+- [ ] ability
+
+---
+
 # Voice / Sound
 
 | Word | Meaning |
