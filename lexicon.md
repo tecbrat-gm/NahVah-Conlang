@@ -71,8 +71,6 @@ Example:
 `AhAh!`
 > Very good!
 
-Comparative suffixes indicate grammatical comparison.
-
 ---
 
 # Space / Environment
@@ -122,14 +120,12 @@ In many dialects:
 | MaVi | the sun (“great light”) |
 | NaVi | the moon (“lesser light”) |
 | NiSelVi | starlight |
-| SelVi | dialectical word for the sun |
-| SelMaVi | alternate dialectical form (“great sky-light”) |
+| SelVi | dialectal word for the sun |
+| SelMaVi | alternate dialectal form (“great sky-light”) |
 
 ## Cosmological Notes
 
 Many NahVah-speaking cultures conceptualize the stars as existing beyond or above the visible sky (`Sel`).
-
-Thus:
 
 | Word | Meaning |
 |---|---|
@@ -139,7 +135,7 @@ Thus:
 
 Different dialects conceptualize the sun differently:
 - some place it within the visible sky
-- others conceptually distinguish it from the higher heavens
+- others distinguish it from the higher heavens
 
 ---
 
@@ -174,12 +170,6 @@ Different dialects conceptualize the sun differently:
 | -l | realm / place |
 | -n | abstract noun |
 
-## Notes
-
-`Unko` originally meant simply “trees” or “tree-group,” but in many contexts broadened semantically to mean wooded areas or forests.
-
-`Unke` later emerged as a more specific term for forest as an environmental expanse.
-
 ---
 
 # Water System
@@ -187,29 +177,41 @@ Different dialects conceptualize the sun differently:
 | Word | Meaning |
 |---|---|
 | Va | water; also freshwater in common usage |
-| AhVa | freshwater (formal / clarified form) |
+| AhVa | freshwater (formal form) |
 | AchokVa | saltwater |
 | Val | lake |
-| AhVal | lake (formal / clarified form) |
+| AhVal | lake (formal form) |
 | AchokVal | sea / ocean |
 | VaKar | river |
-| AhVaKar | river (formal / clarified form) |
+| AhVaKar | river (formal form) |
 | AchokVaKar | tide / surf |
 
 ## Historical Notes
 
 Water distinctions are compositional:
-
 - quality (`Ah / Achok`)
 - state vs place (`Va → Val`)
 - motion via `Kar`
 
 In common speech:
-- `AhVa` may shorten to `Va`
-- `AhVal` may shorten to `Val`
-- `AhVaKar` may shorten to `VaKar`
+- `AhVa → Va`
+- `AhVal → Val`
+- `AhVaKar → VaKar`
 
 when freshwater context is obvious.
+
+---
+
+# Atmospheric Water
+
+| Word | Meaning |
+|---|---|
+| VaDetSel | cloud |
+| VaDiSel | rain |
+
+## Notes
+
+These compounds demonstrate productive use of NahVah prepositions in environmental terminology.
 
 ---
 
@@ -229,23 +231,9 @@ when freshwater context is obvious.
 - vowel changes indicate gender and plurality
 - `Rahn` was added later for clarity
 
-## Plural / Collective Formation
-
-The suffix `-o` commonly marks:
-- plurality
-- collective grouping
-
-Examples:
-
-| Singular | Plural / Collective |
-|---|---|
-| Nah | Naho |
-| Nahi | Nahio |
-| Unk | Unko |
-
 ---
 
-# Creatures by Domain
+# Creature Classification
 
 | Word | Meaning |
 |---|---|
@@ -256,6 +244,32 @@ Examples:
 | AchokVaRahn | sea creature |
 | AhVaRahn | freshwater creature |
 | VaRahn | general water creature |
+
+## Behavioral & Folk Taxonomy
+
+| Word | Meaning |
+|---|---|
+| Mic | rodent / small scurrying creature |
+| Bah | hunter |
+| MicBah | cat / rodent-hunter |
+| MicBahDiGosh | housecat |
+| SelBaho | raptors / sky-hunters |
+| MaSelBah | great sky-hunter |
+| UrhBaho | carrion birds / scavengers |
+| UrhBahoDiSel | sky scavengers |
+| NaRahn | small animal |
+| NaNaRahn | insects / spiders / tiny creatures |
+| MarNaRahn | microscopic life (“infinitely small animals”) |
+
+## Cultural Notes
+
+NahVah creature classification is behavioral and relational rather than scientific.
+
+Animals are commonly categorized by:
+- habitat
+- behavior
+- relationship to the Nah
+- symbolic or moral association
 
 ---
 
@@ -293,8 +307,6 @@ implies:
 - relational collapse
 - divorce
 
-Using these terms toward another person’s spouse is a severe insult.
-
 ---
 
 # Love, Sin & Philosophy
@@ -313,14 +325,6 @@ Love is fundamentally understood as:
 
 Sin is understood as:
 > action opposed to love and righteousness.
-
-This distinction shapes:
-- ethics
-- marriage
-- law
-- spirituality
-
-throughout NahVah-speaking cultures.
 
 ---
 
@@ -353,11 +357,24 @@ from
 
 Older texts remain ambiguous.
 
-`DiMar` is common in devotional speech.
+---
+
+# Existential / Sacred Forms
+
+| Word | Meaning |
+|---|---|
+| Kahru | “I am”; existential self-being |
+| utKahru | “The I-Am”; sacred divine title |
+
+## Notes
+
+Some liturgical traditions preserve inscriptional forms such as:
+
+`UTKAHRU`
 
 ---
 
-# Actions / Grammar
+# Verbs & Actions
 
 | Word | Meaning |
 |---|---|
@@ -373,10 +390,6 @@ Older texts remain ambiguous.
 | Karu | actively doing |
 | Kari | will do |
 | Karó | has done / had done |
-
-## Verb Creation
-
-Nouns may naturally become verbs through usage.
 
 ## Examples
 
@@ -398,15 +411,50 @@ Nouns may naturally become verbs through usage.
 
 ---
 
-## Modal / Conditional Concepts
+# Calendar & Timekeeping
 
-- [ ] possibility
-- [ ] obligation
-- [ ] uncertainty
-- [ ] hypothetical states
-- [ ] conditional structures
-- [ ] necessity
-- [ ] ability
+Nah calendrical systems are based on celestial cycles and decimalized mathematical divisions.
+
+## Major Units
+
+| Word | Meaning |
+|---|---|
+| MiDuzhDiSelVi | historical word for year (“one-around-of-sun”) |
+| Duzh | year / cycle |
+| TitenDiDuzh | formal word for month (“tenth-of-year”) |
+| TiDuzh | month (common form) |
+| MituanDiTitenDiDuzh | formal word for day |
+| MiTiDu | day (common form) |
+| NaMiTiDu | “small-day”; primary subdivision of a day |
+
+## Calendar Structure
+
+- 1 year (`Duzh`) = 10 months
+- 1 month (`TiDuzh`) = 30 days
+- Common social periods often use 10-day groupings (`Miteno`)
+
+## Decimalized Timekeeping
+
+A day is divided into:
+- 10 `NaMiTiDu`
+- each subdivided into 100 smaller units
+- each subdivided again into 100 smaller units
+
+NahVah-speaking cultures do not possess exact equivalents to Earth “minutes” or “seconds.”
+
+## Temporal Grammar
+
+Time expressions preserve fossilized indefinite article usage.
+
+Examples:
+
+`etMitTeauMitauMit`
+
+Careful / clarified speech:
+
+`etMit etTeau etMitauMit`
+
+The original grammatical logic is no longer fully understood by most speakers.
 
 ---
 
@@ -428,15 +476,6 @@ Nouns may naturally become verbs through usage.
 | SeKar | wind / movement of air |
 | SelKar | weather / movement of the heavens |
 
-## Historical Notes
-
-In some dialects:
-- `SeKar` and `SelKar` remain near-synonyms
-
-In others:
-- `SeKar` refers to physical airflow
-- `SelKar` refers to weather or heavenly motion
-
 ---
 
 # Breath
@@ -455,9 +494,6 @@ Over time:
 `NahSeKar → AhSek`
 
 Later speakers often reinterpret:
-- `AhSek`
-as:
-- `Ah` + `Se`
 > “good air”
 
 The origin of the final `k` is often forgotten.
@@ -503,12 +539,6 @@ The `D-` family broadly conveys:
 - spatial orientation
 - conceptual positioning
 
-This pattern emerged organically through common usage and later became recognized as a grammatical category.
-
-## Design Direction
-
-Most prepositions are expected to begin with `d`, forming a recognizable grammatical family.
-
 ---
 
 # Expressions
@@ -518,9 +548,6 @@ Most prepositions are expected to begin with `d`, forming a recognizable grammat
 
 `Dar MarUrhGosh!`
 > “To Hell with you!”
-
-Literally:
-> “Toward the home of the damned!”
 
 ---
 
@@ -544,9 +571,30 @@ Literally:
 | Kahmo | we |
 | Nahm | they |
 
-## Historical Notes
+---
 
-`Kahm` evolved from earlier `Kah` through analogy with `Nahm`.
+# Articles
+
+| Form | Meaning |
+|---|---|
+| e- | indefinite article before consonants |
+| et- | indefinite article before vowels |
+| u- | definite article before consonants |
+| ut- | definite article before vowels |
+
+## Examples
+
+| Word | Meaning |
+|---|---|
+| eSelRahn | a bird |
+| uSelRahn | the bird |
+| utAhGosh | the Good Home |
+
+## Notes
+
+Articles are often omitted in ordinary speech when context is obvious.
+
+Temporal expressions preserve fossilized use of the indefinite article (`et-`).
 
 ---
 
@@ -625,159 +673,12 @@ Literally:
 - repetition = emotional emphasis
 - `-ó` = completed action
 - accent = possession
-- circumflex = contrastive emphasis
 - `-o` = plural / collective
 - `-(h)e` = expanse
 - `-l` = realm / place
 - `-n` = abstract noun
 - `-s` = comparative
 - `-su` = superlative
-
----
-
-# NahVah Development To-Do
-
-## Core Grammar
-- interrogatives
-- question structure
-- existential forms
-- negation refinement
-- additional tense/aspect forms
-- sentence emphasis rules
-
-## Prepositions
-- about
-- above
-- beyond
-- beneath
-- below
-- between
-- on / upon
-- away from
-- through
-- around
-- inside / within
-- beside / near
-
-## Body Vocabulary
-
-### Body Parts
-- eyes
-- ears
-- nose
-- mouth
-- lips
-- tongue
-- teeth
-- head
-- neck
-- arm
-- hand
-- finger
-- chest
-- heart
-- stomach
-- back
-- leg
-- foot
-- bone
-- blood
-- skin
-
-### Bodily Functions
-- eat
-- drink
-- sleep
-- breathe
-- bleed
-- cry
-- laugh
-- cough
-- die
-- heal
-- urinate
-- defecate
-- vomit
-
-### Body States
-- pain
-- hunger
-- thirst
-- exhaustion
-- sickness
-- fever
-- warmth
-- coldness
-
-## Nature & Environment
-- stars
-- fire
-- flame
-- smoke
-- ash
-- cloud
-- rain
-- snow
-- lightning
-- thunder
-- wind distinctions
-- seasons
-
-## Society & Civilization
-- child
-- parent
-- brother
-- sister
-- family
-- tribe/clan
-- village
-- city
-- road
-- market
-- trade
-- war
-- peace
-- law
-- judge
-- criminal
-- prisoner
-
-## Spiritual / Philosophical Expansion
-- theology of NiēMarAhGosh
-- relationship between NiSel and heaven
-- cosmological terminology
-- afterlife terminology
-- prayer language
-- sacred vs common speech
-
-## Everyday Speech
-- greetings
-- farewells
-- gratitude
-- apologies
-- commands
-- affection
-- insults
-- slang
-- child-language
-- informal contractions
-
-## Language Evolution
-- dialect differences
-- folk etymologies
-- archaic forms
-- phonetic erosion patterns
-- formal vs common speech
-- priestly vocabulary
-- regional pronunciation shifts
-
-## Writing System
-- alphabet or glyphs
-- punctuation
-- emphasis markers
-- poetic structure
-- formal inscriptions
-- sacred writing traditions
 
 ---
 
