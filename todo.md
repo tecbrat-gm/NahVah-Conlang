@@ -11,6 +11,7 @@
   - [ ] where
   - [ ] why
   - [ ] how
+  - [ ] determine possible `Z-` interrogative family
 
 - [ ] Define question sentence structure
 - [ ] Define existential/question uses of "is"
@@ -19,8 +20,35 @@
 - [ ] Formalize sentence emphasis rules
 - [ ] Determine adjective behavior
 - [ ] Determine adverb formation
+- [ ] Determine modal system
+  - [ ] possibility
+  - [ ] obligation
+  - [ ] uncertainty
+  - [ ] hypothetical states
+  - [ ] conditional structures
+  - [ ] necessity
+  - [ ] ability
 
-## Adjectival and Adverbial  / Descriptive Morphology
+## Articles
+
+- [ ] Determine article omission rules
+- [ ] Determine article behavior in formal speech
+- [ ] Determine sacred/liturgical article usage
+- [ ] Determine whether additional demonstratives exist
+  - [ ] this
+  - [ ] that
+  - [ ] these
+  - [ ] those
+
+## Pronouns
+
+- [ ] Determine neutral/object pronoun
+  - [ ] it
+- [ ] Determine demonstrative pronouns
+- [ ] Determine reflexive forms
+- [ ] Determine honorific forms
+
+## Adjectival and Adverbial / Descriptive Morphology
 
 - [ ] Create a general adjective/adverb-forming morph or morphs
   - Example target:
@@ -36,22 +64,23 @@
 - [ ] salty
 - [ ] holy
 - [ ] corrupted / damned
+- [ ] sticky / adhesive
+- [ ] cute / diminutive
+- [ ] affectionate diminutive
+
 ---
 
-# Prepositions
+# Timekeeping & Mathematics
 
-- [ ] about
-- [ ] above
-- [ ] beyond
-- [ ] beneath
-- [ ] below
-- [ ] between
-- [ ] on / upon
-- [ ] away from
-- [ ] through
-- [ ] around
-- [ ] inside / within
-- [ ] beside / near
+- [ ] Name subdivisions below `NaMiTiDu`
+- [ ] Determine practical equivalents of “minute” and “second”
+- [ ] Determine whether astronomical vs common calendars diverge
+- [ ] Expand seasonal terminology
+- [ ] Expand celestial motion terminology
+- [ ] Determine eclipse/comet terminology
+- [ ] Expand ordinal/fractional usage
+- [ ] Determine large-number naming conventions
+- [ ] Expand mathematical terminology
 
 ---
 
@@ -112,13 +141,10 @@
 
 # Nature & Environment
 
-- [ ] stars
 - [ ] fire
 - [ ] flame
 - [ ] smoke
 - [ ] ash
-- [ ] cloud
-- [ ] rain
 - [ ] snow
 - [ ] lightning
 - [ ] thunder
@@ -129,6 +155,7 @@
 - [ ] Refine SeKar vs SelKar distinction
 - [ ] Determine storm terminology
 - [ ] Determine weather terminology
+- [ ] Determine humidity / mist terminology
 
 ---
 
@@ -163,6 +190,9 @@
 - [ ] Create prayer language
 - [ ] Distinguish sacred vs common speech
 - [ ] Determine ritual vocabulary
+- [ ] Determine priestly pronunciation traditions
+- [ ] Determine sacred inscription conventions
+- [ ] Expand Kahru / utKahru theology
 
 ---
 
@@ -190,6 +220,9 @@
 - [ ] Distinguish formal vs common speech
 - [ ] Develop priestly vocabulary
 - [ ] Create regional pronunciation shifts
+- [ ] Determine historical sound shifts
+- [ ] Determine fossilized grammatical structures
+- [ ] Expand shortened/common forms
 
 ---
 
@@ -206,6 +239,11 @@
 - [ ] poetic structure
 - [ ] formal inscriptions
 - [ ] sacred writing traditions
+- [ ] determine capitalization conventions
+- [ ] determine inscriptional conventions
+  - [ ] UTKAHRU
+  - [ ] sacred spacing
+  - [ ] formal compounds
 
 ---
 
@@ -219,6 +257,9 @@
 - [ ] Add grammar overview
 - [ ] Add dialect notes
 - [ ] Add etymology appendix
+- [ ] Create dedicated grammar.md
+- [ ] Create dedicated cosmology.md
+- [ ] Create dedicated phonology.md
 
 ---
 
@@ -226,8 +267,10 @@
 
 - [ ] Determine if NahVah has grammatical gender beyond natural gender
 - [ ] Determine counting systems beyond base numbers
-- [ ] Determine calendar/timekeeping concepts
 - [ ] Determine measurement systems
 - [ ] Determine naming conventions
 - [ ] Determine poetry/song traditions
 - [ ] Determine mythology and folklore
+- [ ] Determine musical terminology
+- [ ] Determine whether sacred names may be unspoken
+- [ ] Determine cultural attitudes toward compound-word “stickiness”
