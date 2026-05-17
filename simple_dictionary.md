@@ -50,267 +50,289 @@ Example:
 
 # A
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Achok | /a.t͡ʃɒk/ | good-rock | salt |
-| AchokVa | /a.t͡ʃɒk.va/ | salt-water | saltwater |
-| AchokVaKar | /a.t͡ʃɒk.va.kaɹ/ | salt-water-action | tide / surf |
-| AchokVal | /a.t͡ʃɒk.val/ | salt-water-place | sea / ocean |
-| Ah | /a̤/ | good / fitting / righteous | good |
-| Ah AhChah | /a̤ a̤.t͡ʃa̤/ | good-arrival | welcome (formal) |
-| AhCh | /a̤t͡ʃ/ | contracted-welcome | welcome (casual) |
-| AhChah | /a̤.t͡ʃa̤/ | arrive-action | to arrive |
-| AhGosh | /a̤.gɒʃ/ | good-home | the world |
-| AhKar | /a̤.kaɹ/ | good-action | to love |
-| AhKarl | /a̤.kaɹl/ | good-action-realm | realm of love |
-| AhKarn | /a̤.kaɹn/ | good-action-concept | love |
-| AhMarl | /a̤.maɹl/ | good-eternal-realm | realm of eternal good |
-| AhNah | /a̤.na̤/ | good-person | king / respected man |
-| AhNahi | /a̤.na̤.i/ | good-woman | queen / respected woman |
-| AhNahl | /a̤.na̤l/ | good-person-realm | kingdom / royal office |
-| AhSek | /a̤.sek/ | folk-etymological “good air” | breath |
-| AhVa | /a̤.va/ | good-water | freshwater |
-| AhVaKar | /a̤.va.kaɹ/ | good-water-action | river |
-| AhVal | /a̤.val/ | good-water-place | lake |
-| Ahs | /a̤s/ | better | comparative form |
-| Ahsu | /a̤.su/ | best | superlative form |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Achok | n. | /a.t͡ʃɒk/ | good-rock | salt |
+| AchokVa | n. | /a.t͡ʃɒk.va/ | salt-water | saltwater |
+| AchokVaKar | n. | /a.t͡ʃɒk.va.kaɹ/ | salt-water-action | tide / surf |
+| AchokVal | n. | /a.t͡ʃɒk.val/ | salt-water-place | sea / ocean |
+| Ah | adj. | /a̤/ | good / fitting / righteous | good |
+| Ah AhChah | expr. | /a̤ a̤.t͡ʃa̤/ | good-arrival | welcome (formal) |
+| AhCh | expr. | /a̤t͡ʃ/ | contracted-welcome | welcome (casual) |
+| AhChah | v. | /a̤.t͡ʃa̤/ | arrive-action | to arrive |
+| AhGosh | n. | /a̤.gɒʃ/ | good-home | the world |
+| AhKar | v. | /a̤.kaɹ/ | good-action | to love |
+| AhKarl | n. | /a̤.kaɹl/ | good-action-realm | realm of love |
+| AhKarn | n. | /a̤.kaɹn/ | good-action-concept | love |
+| AhMarl | n. | /a̤.maɹl/ | good-eternal-realm | realm of eternal good |
+| AhNah | n. | /a̤.na̤/ | good-person | king / respected man |
+| AhNahi | n. | /a̤.na̤.i/ | good-woman | queen / respected woman |
+| AhNahl | n. | /a̤.na̤l/ | good-person-realm | kingdom / royal office |
+| AhSek | n. | /a̤.sek/ | folk-etymological “good air” | breath |
+| AhVa | n. | /a̤.va/ | good-water | freshwater |
+| AhVaKar | n. | /a̤.va.kaɹ/ | good-water-action | river |
+| AhVal | n. | /a̤.val/ | good-water-place | lake |
+| Ahs | adj. | /a̤s/ | better | comparative form |
+| Ahsu | adj. | /a̤.su/ | best | superlative form |
 
 ---
 
 # C
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Chah | /t͡ʃa̤/ | softened-rock | dirt |
-| Chahe | /t͡ʃa̤.e/ | dirt-expanse | terrain |
-| Chok | /t͡ʃɒk/ | rock | rock |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Chah | n. | /t͡ʃa̤/ | softened-rock | dirt |
+| Chahe | n. | /t͡ʃa̤.e/ | dirt-expanse | terrain |
+| Chok | n. | /t͡ʃɒk/ | rock | rock |
 
 ---
 
 # D
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Dahn | /dan/ | away-from | away from |
-| Dar | /daɹ/ | toward / movement-to | to / toward |
-| Dazh | /daʒ/ | beside-relation | beside / near |
-| Den | /den/ | beyond-relation | beyond |
-| Det | /det/ | inward-relation | inside / within |
-| Dez | /dez/ | regarding-relation | about / regarding |
-| Dezh | /deʒ/ | outward-relation | outside |
-| Dēp | /deːp/ | surface-relation | on / upon |
-| Dēsh | /deːʃ/ | historically uncertain | land / homeland |
-| DēshRahn | /deːʃ.ɹa̤n/ | land-animal | land animal |
-| Di | /di/ | of / from / relational | of / from |
-| Din | /din/ | upper-relation | above |
-| Dip | /dip/ | middle-relation | between |
-| DiMar | /di.maɹ/ | of-the-eternal | devotional angelic term |
-| Dizh | /diʒ/ | lower-relation | below / beneath |
-| Dut | /dut/ | passage-relation | through |
-| Duzh | /duʒ/ | surrounding-relation | around |
-| Duzh | /duʒ/ | cycle / yearly cycle | year (See also: MiDuzhDiSelVi) |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Dahn | prep. | /dan/ | away-from | away from |
+| Dar | prep. | /daɹ/ | toward / movement-to | to / toward |
+| Dazh | prep. | /daʒ/ | beside-relation | beside / near |
+| Den | prep. | /den/ | beyond-relation | beyond |
+| Det | prep. | /det/ | inward-relation | inside / within |
+| Dez | prep. | /dez/ | regarding-relation | about / regarding |
+| Dezh | prep. | /deʒ/ | outward-relation | outside |
+| Dēp | prep. | /deːp/ | surface-relation | on / upon |
+| Dēsh | n. | /deːʃ/ | historically uncertain | land / homeland |
+| DēshRahn | n. | /deːʃ.ɹa̤n/ | land-animal | land animal |
+| Di | prep. | /di/ | of / from / relational | of / from |
+| Din | prep. | /din/ | upper-relation | above |
+| Dip | prep. | /dip/ | middle-relation | between |
+| DiMar | n. | /di.maɹ/ | of-the-eternal | devotional angelic term |
+| Dizh | prep. | /diʒ/ | lower-relation | below / beneath |
+| Dut | prep. | /dut/ | passage-relation | through |
+| Duzh | prep. | /duʒ/ | surrounding-relation | around |
+| Duzh | n. | /duʒ/ | cycle / yearly cycle | year (See also: MiDuzhDiSelVi) |
 
 ---
 
 # G
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Gish | /giʃ/ | place / location | place |
-| Gosh | /gɒʃ/ ; dialectal /goʃ/ | home | home |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Gish | n. | /giʃ/ | place / location | place |
+| Gosh | n. | /gɒʃ/ ; dialectal /goʃ/ | home | home |
 
 ---
 
 # K
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Kaha | /ka̤.a/ | masculine reference | him |
-| Kahá | /ka̤ˈa/ | his-possession | his |
-| Kahi | /ka̤.i/ | feminine reference | her |
-| Kahí | /ka̤ˈi/ | hers-possession | hers |
-| Kahm | /ka̤m/ | self/person | I |
-| Kahme | /ka̤m.e/ | self-possession | mine |
-| Kahmo | /ka̤m.o/ | grouped-self | we |
-| Kahmó | /ka̤mˈo/ | our-possession | ours |
-| Kahá NiChok | /ka̤ˈa ni.t͡ʃɒk/ | his-high-rock | skull |
-| Kahru | /ka̤.ɹu/ | existential-self | I am |
-| Kar | /kaɹ/ | action / act / make | do |
-| Kari | /kaɹ.i/ | future-action | will do |
-| Karo | /kaɹ.o/ | did-action | did |
-| Karu | /kaɹ.u/ | active-action | actively doing |
-| Karó | /kaɹˈo/ | completed-action | has done |
-| Ki | /ki/ | not-high | low |
-| Kra | /kɹa/ | not / no | no |
-| Krao | /kɹa.o/ | no-thing | zero (dialectal) (See also: Naro) |
-| Ku | /ku/ | yes | yes |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Kaha | pron. | /ka̤.a/ | masculine reference | him |
+| Kahá | pron. | /ka̤ˈa/ | his-possession | his |
+| Kahi | pron. | /ka̤.i/ | feminine reference | her |
+| Kahí | pron. | /ka̤ˈi/ | hers-possession | hers |
+| Kahm | pron. | /ka̤m/ | self/person | I |
+| Kahme | pron. | /ka̤m.e/ | self-possession | mine |
+| Kahmo | pron. | /ka̤m.o/ | grouped-self | we |
+| Kahmó | pron. | /ka̤mˈo/ | our-possession | ours |
+| Kahá NiChok | n. | /ka̤ˈa ni.t͡ʃɒk/ | his-high-rock | skull |
+| Kahru | v. | /ka̤.ɹu/ | existential-self | I am |
+| Kar | v. | /kaɹ/ | action / act / make | do |
+| Kari | v. | /kaɹ.i/ | future-action | will do |
+| Karo | v. | /kaɹ.o/ | did-action | did |
+| Karu | v. | /kaɹ.u/ | active-action | actively doing |
+| Karó | v. | /kaɹˈo/ | completed-action | has done |
+| Ki | adj. | /ki/ | not-high | low |
+| Kra | part. | /kɹa/ | not / no | no |
+| Krao | n. | /kɹa.o/ | no-thing | zero (dialectal) (See also: Naro) |
+| KraViLa | adj. | /kɹa.vi.la/ | no-light-color | black |
+| Ku | part. | /ku/ | yes | yes |
+| Kuhmo | pron. | /kṳm.o/ | plural-addressed-person | y’all / you plural |
+| Kuhmó | pron. | /kṳmˈo/ | plural-your-possession | yours (plural) |
+| Kum | pron. | /kum/ | addressed-person | you |
+| Kume | pron. | /kum.e/ | your-possession | yours |
 
 ---
 
 # L
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Li | /li/ | future-state | will be |
-| Lo | /lo/ | past-state | was |
-| Ló | /ˈlo/ | completed-state | had been |
-| Lu | /lu/ | is-state | is |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Li | v. | /li/ | future-state | will be |
+| Lo | v. | /lo/ | past-state | was |
+| Ló | v. | /ˈlo/ | completed-state | had been |
+| Lu | v. | /lu/ | is-state | is |
 
 ---
 
 # M
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Ma | /ma/ | large | large |
-| Mar | /maɹ/ | eternal | eternal |
-| MarAhGosh | /maɹ.a̤.gɒʃ/ | eternal-good-home | heaven |
-| MarNaRahn | /maɹ.na.ɹa̤n/ | eternal-small-animal | microscopic life |
-| MarUrh | /maɹ.uɹ̤/ | eternal-damnation | eternal damnation |
-| MarUrhGosh | /maɹ.uɹ̤.gɒʃ/ | eternal-damned-home | Hell |
-| Mas | /mas/ | bigger | comparative form |
-| Masu | /ma.su/ | biggest | superlative form |
-| MaSelBah | /ma.sel.ba̤/ | great-sky-hunter | eagle |
-| MaVi | /ma.vi/ | great-light | sun |
-| Mic | /mik/ | small-scurrying-creature | rodent |
-| MicBah | /mik.ba̤/ | rodent-hunter | cat |
-| MicBahDiGosh | /mik.ba̤.di.gɒʃ/ | cat-of-home | housecat |
-| MiDuzhDiSelVi | /mi.duʒ.di.sel.vi/ | one-around-of-sun | formal / historical word for year (See also: Duzh) |
-| MiTiDu | /mi.ti.du/ | shortened-day-form | day (See also: MituanDiTitenDiDuzh) |
-| MituanDiTitenDiDuzh | /mi.tu.an.di.ti.ten.di.duʒ/ | one-thirtieth-of-tenth-of-year | formal word for day (See also: MiTiDu) |
-| Miu | /mi.u/ | one-group | ten |
-| Mit | /mit/ | five | five |
-| Mita | /mi.ta/ | two | two |
-| Mitau | /mi.ta.u/ | two-group | twenty |
-| Mitene | /mit.en.e/ | fifth | fifth |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Ma | adj. | /ma/ | large | large |
+| Mar | adj. | /maɹ/ | eternal | eternal |
+| MarAhGosh | n. | /maɹ.a̤.gɒʃ/ | eternal-good-home | heaven |
+| MarNaRahn | n. | /maɹ.na.ɹa̤n/ | eternal-small-animal | microscopic life |
+| MarUrh | n. | /maɹ.uɹ̤/ | eternal-damnation | eternal damnation |
+| MarUrhGosh | n. | /maɹ.uɹ̤.gɒʃ/ | eternal-damned-home | Hell |
+| Mas | adj. | /mas/ | bigger | comparative form |
+| Masu | adj. | /ma.su/ | biggest | superlative form |
+| MaSelBah | n. | /ma.sel.ba̤/ | great-sky-hunter | eagle |
+| MaVi | n. | /ma.vi/ | great-light | sun |
+| Mic | n. | /mik/ | small-scurrying-creature | rodent |
+| MicBah | n. | /mik.ba̤/ | rodent-hunter | cat |
+| MicBahDiGosh | n. | /mik.ba̤.di.gɒʃ/ | cat-of-home | housecat |
+| MiDuzhDiSelVi | n. | /mi.duʒ.di.sel.vi/ | one-around-of-sun | formal / historical word for year (See also: Duzh) |
+| MiTiDu | n. | /mi.ti.du/ | shortened-day-form | day (See also: MituanDiTitenDiDuzh) |
+| MituanDiTitenDiDuzh | n. | /mi.tu.an.di.ti.ten.di.duʒ/ | one-thirtieth-of-tenth-of-year | formal word for day (See also: MiTiDu) |
+| Miu | num. | /mi.u/ | one-group | ten |
+| Mit | num. | /mit/ | five | five |
+| Mita | num. | /mi.ta/ | two | two |
+| Mitau | num. | /mi.ta.u/ | two-group | twenty |
+| Mitene | num. | /mit.en.e/ | fifth | fifth |
 
 ---
 
 # N
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Na | /na/ | small | small |
-| Nah | /na̤/ | person | person / man |
-| Nahi | /na̤.i/ | female-person | woman |
-| Nahio | /na̤.i.o/ | female-persons | women |
-| Nahm | /na̤m/ | persons-group | they |
-| Nahme | /na̤m.e/ | their-possession | theirs |
-| Nahoa | /na̤.o.a/ | spirit | spirit |
-| NahoaDiNiMarAhGosh | /na̤.o.a.di.ni.maɹ.a̤.gɒʃ/ | spirits-of-high-eternal-home | angels |
-| NahoaUrh | /na̤.o.a.uɹ̤/ | damned-spirit | demon |
-| NahSeKar | /na̤.se.kaɹ/ | person-air-action | breath |
-| NahVah | /na̤.va̤/ | person-voice | NahVah language |
-| NahDiChok | /na̤.di.t͡ʃɒk/ | person-of-rock | man of the rock |
-| Naho | /na̤.o/ | persons / men | men |
-| NahoDiNiMar | /na̤.o.di.ni.maɹ/ | persons-of-high-eternal | priests / angels |
-| NahoDiNiMarAhGosh | /na̤.o.di.ni.maɹ.a̤.gɒʃ/ | persons-of-high-eternal-home | angels / holy men |
-| NahoDiUrh | /na̤.o.di.uɹ̤/ | persons-of-damnation | damned souls |
-| NahoDiMarUrh | /na̤.o.di.maɹ.uɹ̤/ | persons-of-eternal-damnation | damned souls |
-| NaMiTiDu | /na.mi.ti.du/ | small-day | primary time subdivision |
-| NaNaRahn | /na.na.ɹa̤n/ | small-small-animal | insects / spiders |
-| Nar | /naɹ/ | never | never |
-| NaRahn | /na.ɹa̤n/ | small-animal | small creature |
-| Naro | /naɹ.o/ | never-thing | zero (See also: Krao) |
-| NaVi | /na.vi/ | lesser-light | moon |
-| Ni | /ni/ | high place | high |
-| NiAh | /ni.a̤/ | high-good / exalted-good | excitement / celebration |
-| NiAhNah | /ni.a̤.na̤/ | high-good-person | priest / saint |
-| Niē | /ni.eː/ | exalted height | exalted |
-| NiēAhNa | /ni.eː.a̤.na/ | exalted-good-person | priest / saint |
-| NiMarAhGosh | /ni.maɹ.a̤.gɒʃ/ | exalted-eternal-home | exalted heaven |
-| NiNiChok | /ni.ni.t͡ʃɒk/ | high-high-rock | great mountain |
-| NiSel | /ni.sel/ | higher-heavens | higher heavens |
-| NiSelVi | /ni.sel.vi/ | high-sky-light | starlight |
-| Nis | /nis/ | higher | comparative form |
-| Nisu | /ni.su/ | highest | superlative form |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Na | adj. | /na/ | small | small |
+| Nah | n. | /na̤/ | person | person / man |
+| Nahi | n. | /na̤.i/ | female-person | woman |
+| Nahio | n. | /na̤.i.o/ | female-persons | women |
+| Nahm | pron. | /na̤m/ | singular unspecified person | they (singular unspecified) |
+| Nahme | pron. | /na̤m.e/ | singular unspecified possession | theirs (singular unspecified) |
+| Nahmo | pron. | /na̤m.o/ | plural unspecified persons | they (plural) |
+| Nahmó | pron. | /na̤mˈo/ | plural unspecified possession | theirs (plural) |
+| Nahoa | n. | /na̤.o.a/ | spirit | spirit |
+| NahoaDiNiMarAhGosh | n. | /na̤.o.a.di.ni.maɹ.a̤.gɒʃ/ | spirits-of-high-eternal-home | angels |
+| NahoaUrh | n. | /na̤.o.a.uɹ̤/ | damned-spirit | demon |
+| NahSeKar | n. | /na̤.se.kaɹ/ | person-air-action | breath |
+| NahVah | n. | /na̤.va̤/ | person-voice | NahVah language |
+| NahDiChok | n. | /na̤.di.t͡ʃɒk/ | person-of-rock | man of the rock |
+| Naho | n. | /na̤.o/ | persons / men | men |
+| NahoDiNiMar | n. | /na̤.o.di.ni.maɹ/ | persons-of-high-eternal | priests / angels |
+| NahoDiNiMarAhGosh | n. | /na̤.o.di.ni.maɹ.a̤.gɒʃ/ | persons-of-high-eternal-home | angels / holy men |
+| NahoDiUrh | n. | /na̤.o.di.uɹ̤/ | persons-of-damnation | damned souls |
+| NahoDiMarUrh | n. | /na̤.o.di.maɹ.uɹ̤/ | persons-of-eternal-damnation | damned souls |
+| NaMiTiDu | n. | /na.mi.ti.du/ | small-day | primary time subdivision |
+| NaNaRahn | n. | /na.na.ɹa̤n/ | small-small-animal | insects / spiders |
+| Nar | adv. | /naɹ/ | never | never |
+| NaRahn | n. | /na.ɹa̤n/ | small-animal | small creature |
+| Naro | n. | /naɹ.o/ | never-thing | zero (See also: Krao) |
+| NaVi | n. | /na.vi/ | lesser-light | moon |
+| NaViLa | adj. | /na.vi.la/ | lesser-light-color | gray |
+| Ni | adj. | /ni/ | high place | high |
+| NiAh | expr. | /ni.a̤/ | high-good / exalted-good | glory / exaltation / triumph |
+| NiAhNah | n. | /ni.a̤.na̤/ | high-good-person | priest / saint |
+| Niē | adj. | /ni.eː/ | exalted height | exalted |
+| NiēAhNa | n. | /ni.eː.a̤.na/ | exalted-good-person | priest / saint |
+| NiMarAhGosh | n. | /ni.maɹ.a̤.gɒʃ/ | exalted-eternal-home | exalted heaven |
+| NiNiChok | n. | /ni.ni.t͡ʃɒk/ | high-high-rock | great mountain |
+| NiSel | n. | /ni.sel/ | higher-heavens | higher heavens |
+| NiSelVi | n. | /ni.sel.vi/ | high-sky-light | starlight |
+| Nis | adj. | /nis/ | higher | comparative form |
+| Nisu | adj. | /ni.su/ | highest | superlative form |
+| Nuha | pron. | /nṳ.a/ | neuter reference | it |
+| Nuhá | pron. | /nṳˈa/ | its-possession | its |
 
 ---
 
 # R
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Rahn | /ɹa̤n/ | animal | animal |
-| RahnDiGosh | /ɹa̤n.di.gɒʃ/ | animal-of-home | pet |
-| RahnVah | /ɹa̤n.va̤/ | animal-voice | animal sound |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Rahn | n. | /ɹa̤n/ | animal | animal |
+| RahnDiGosh | n. | /ɹa̤n.di.gɒʃ/ | animal-of-home | pet |
+| RahnVah | n. | /ɹa̤n.va̤/ | animal-voice | animal sound |
 
 ---
 
 # S
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Se | /se/ | air | air |
-| SeKar | /se.kaɹ/ | air-action | wind / airflow |
-| Sel | /sel/ | air-realm | sky |
-| SelBah | /sel.ba̤/ | sky-hunter | raptor |
-| SelKar | /sel.kaɹ/ | sky-action | weather / heavenly motion |
-| SelMaVi | /sel.ma.vi/ | great-sky-light | sun (dialectal) |
-| SelRahn | /sel.ɹa̤n/ | sky-animal | bird |
-| SelRahnVah | /sel.ɹa̤n.va̤/ | sky-animal-voice | birdsong |
-| Selu | /sel.u/ | sky-action | to fly |
-| SelVi | /sel.vi/ | sky-light | sun (dialectal) |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Se | n. | /se/ | air | air |
+| SeKar | n. | /se.kaɹ/ | air-action | wind / airflow |
+| Sel | n. | /sel/ | air-realm | sky |
+| SelBah | n. | /sel.ba̤/ | sky-hunter | raptor |
+| SelKar | n. | /sel.kaɹ/ | sky-action | weather / heavenly motion |
+| SelLa | adj. | /sel.la/ | sky-color | blue |
+| SelMaVi | n. | /sel.ma.vi/ | great-sky-light | sun (dialectal) |
+| SelRahn | n. | /sel.ɹa̤n/ | sky-animal | bird |
+| SelRahnVah | n. | /sel.ɹa̤n.va̤/ | sky-animal-voice | birdsong |
+| Selu | v. | /sel.u/ | sky-action | to fly |
+| SelVi | n. | /sel.vi/ | sky-light | sun (dialectal) |
 
 ---
 
 # T
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Te | /te/ | nine | nine |
-| Ti | /ti/ | six | six |
-| TiDuzh | /ti.duʒ/ | shortened-tenth-of-year | month (See also: TitenDiDuzh) |
-| Tita | /ti.ta/ | seven | seven |
-| Titene | /tit.en.e/ | tenth | tenth |
-| TitenDiDuzh | /tit.en.di.duʒ/ | tenth-of-year | formal word for month (See also: TiDuzh) |
-| Ty | /tai/ | eight | eight |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Te | num. | /te/ | nine | nine |
+| Ti | num. | /ti/ | six | six |
+| TiDuzh | n. | /ti.duʒ/ | shortened-tenth-of-year | month (See also: TitenDiDuzh) |
+| Tita | num. | /ti.ta/ | seven | seven |
+| Titene | num. | /tit.en.e/ | tenth | tenth |
+| TitenDiDuzh | n. | /tit.en.di.duʒ/ | tenth-of-year | formal word for month (See also: TiDuzh) |
+| Ty | num. | /tai/ | eight | eight |
 
 ---
 
 # U
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Unk | /unk/ | tree | tree |
-| Unke | /unk.e/ | tree-expanse | forest |
-| UnkeRahn | /unk.e.ɹa̤n/ | forest-expanse-animal | forest creature |
-| Unko | /unk.o/ | trees / tree-group | trees / wooded grouping |
-| UnkoRahn | /unk.o.ɹa̤n/ | tree-group-animal | forest creature |
-| Urh | /uɹ̤/ | evil / damned / accursed | evil |
-| UrhBah | /uɹ̤.ba̤/ | evil-hunter | scavenger / carrion bird |
-| UrhBahDiSel | /uɹ̤.ba̤.di.sel/ | evil-hunter-of-sky | vulture / buzzard |
-| UrhKar | /uɹ̤.kaɹ/ | evil-action | to commit evil |
-| UrhKarn | /uɹ̤.kaɹn/ | evil-action-concept | sin |
-| UrhNah | /uɹ̤.na̤/ | evil-person | vile husband / accursed man |
-| UrhNahi | /uɹ̤.na̤.i/ | evil-woman | vile wife / accursed woman |
-| UrhSe | /uɹ̤.se/ | evil-air | poison gas / foul air |
-| utKahru | /ut.ka̤.ɹu/ | the-I-Am | sacred divine title |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Unk | n. | /unk/ | tree | tree |
+| Unke | n. | /unk.e/ | tree-expanse | forest |
+| UnkeLa | adj. | /unk.e.la/ | forest-color | green |
+| UnkeRahn | n. | /unk.e.ɹa̤n/ | forest-expanse-animal | forest creature |
+| Unko | n. | /unk.o/ | trees / tree-group | trees / wooded grouping |
+| UnkoRahn | n. | /unk.o.ɹa̤n/ | tree-group-animal | forest creature |
+| UnkLa | adj. | /unk.la/ | tree-color | brown |
+| Urh | adj. | /uɹ̤/ | evil / damned / accursed | evil |
+| UrhBah | n. | /uɹ̤.ba̤/ | evil-hunter | scavenger / carrion bird |
+| UrhBahDiSel | n. | /uɹ̤.ba̤.di.sel/ | evil-hunter-of-sky | vulture / buzzard |
+| UrhKar | v. | /uɹ̤.kaɹ/ | evil-action | to commit evil |
+| UrhKarn | n. | /uɹ̤.kaɹn/ | evil-action-concept | sin |
+| UrhNah | n. | /uɹ̤.na̤/ | evil-person | vile husband / accursed man |
+| UrhNahi | n. | /uɹ̤.na̤.i/ | evil-woman | vile wife / accursed woman |
+| UrhSe | n. | /uɹ̤.se/ | evil-air | poison gas / foul air |
+| utKahru | n. | /ut.ka̤.ɹu/ | the-I-Am | sacred divine title |
 
 ---
 
 # V
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Va | /va/ | water | water / freshwater |
-| VaDetSel | /va.det.sel/ | water-within-sky | cloud |
-| Vah | /va̤/ | voice / sound | voice |
-| VaDiSel | /va.di.sel/ | water-of-sky | rain |
-| VaKar | /va.kaɹ/ | water-action | river |
-| Val | /val/ | water-place | lake |
-| VaRahn | /va.ɹa̤n/ | water-animal | water creature |
-| Vau | /va.u/ | water-action | to swim |
-| Vi | /vi/ | light / radiance | light |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Va | n. | /va/ | water | water / freshwater |
+| VaDetSel | n. | /va.det.sel/ | water-within-sky | cloud |
+| Vah | n. | /va̤/ | voice / sound | voice |
+| VaDiSel | n. | /va.di.sel/ | water-of-sky | rain |
+| VaKar | n. | /va.kaɹ/ | water-action | river |
+| Val | n. | /val/ | water-place | lake |
+| VaRahn | n. | /va.ɹa̤n/ | water-animal | water creature |
+| Vau | v. | /va.u/ | water-action | to swim |
+| Vi | n. | /vi/ | light / radiance | light |
 
 ---
 
 # Z
 
-| NahVah | IPA | Literal / Root Meaning | English |
-|---|---|---|---|
-| Zhe | /ʒe/ | number | number |
-| Zheu | /ʒe.u/ | number-action | to count |
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| z | conj. | /z/ | choice / alternative | or |
+| Zah | pron. | /za̤/ | interrogative-person | who |
+| Zhe | n. | /ʒe/ | number | number |
+| Zheu | v. | /ʒe.u/ | number-action | to count |
+| Zuh | pron. | /zṳ/ | interrogative-thing | what |
+| ZuhDe | adv. | /zṳ.de/ | what-place | where |
+| ZuhDuzh | adv. | /zṳ.duʒ/ | what-cycle | when (formal) |
+| ZuhDzh | adv. | /zṳ.dʒ/ | shortened-what-cycle | when |
+| ZuhKar | adv. | /zṳ.kaɹ/ | what-action | how / by what method |
+| ZuhNa | adv. | /zṳ.na/ | what-cause | why |
+| ZuhZhe | adv. | /zṳ.ʒe/ | what-number | how much / to what extent |
 
 ---
 
