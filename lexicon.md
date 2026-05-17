@@ -98,7 +98,7 @@ Example:
 | MarAhGosh | eternal good home |
 | NiMarAhGosh | exalted heaven |
 | AhMarl | realm of eternal good |
-| AhNarl | realm of love / righteous action |
+| AhKarl | realm of love / righteous action |
 | MarUrh | eternal damnation |
 | MarUrhGosh | Hell / home of the damned |
 
@@ -139,6 +139,29 @@ Different dialects conceptualize the sun differently:
 
 ---
 
+# Color System
+
+| Word | Meaning |
+|---|---|
+| SelLa | blue (“sky-color”) |
+| UnkLa | brown (“tree-color”) |
+| UnkeLa | green (“forest-color”) |
+| NaViLa | gray (“lesser-light-color”) |
+| KraViLa | black (“no-light-color”) |
+
+## Notes
+
+NahVah color terminology is highly relational and environmentally derived.
+
+Color concepts are commonly formed through:
+- natural reference objects
+- environmental association
+- metaphorical extension
+
+The suffix `-la` commonly forms color or appearance terms.
+
+---
+
 # Land, Air & Matter
 
 | Word | Meaning |
@@ -169,6 +192,19 @@ Different dialects conceptualize the sun differently:
 | -(h)e | expanse |
 | -l | realm / place |
 | -n | abstract noun |
+| -la | color / appearance |
+
+## Notes
+
+In compound words, pluralization typically applies directly to the pluralized root rather than the end of the entire compound.
+
+Example:
+
+`UrhBah(o)DiSel`
+
+rather than:
+
+`UrhBahDiSelo`
 
 ---
 
@@ -253,10 +289,9 @@ These compounds demonstrate productive use of NahVah prepositions in environment
 | Bah | hunter |
 | MicBah | cat / rodent-hunter |
 | MicBahDiGosh | housecat |
-| SelBaho | raptors / sky-hunters |
-| MaSelBah | great sky-hunter |
-| UrhBaho | carrion birds / scavengers |
-| UrhBahoDiSel | sky scavengers |
+| SelBah(o) | raptors / sky-hunters |
+| MaSelBah | eagle |
+| UrhBahDiSel | vulture / buzzard / sky scavenger |
 | NaRahn | small animal |
 | NaNaRahn | insects / spiders / tiny creatures |
 | MarNaRahn | microscopic life (“infinitely small animals”) |
@@ -372,6 +407,8 @@ Some liturgical traditions preserve inscriptional forms such as:
 
 `UTKAHRU`
 
+Explicit existential statements are often considered weighty, philosophical, or sacred.
+
 ---
 
 # Verbs & Actions
@@ -387,9 +424,21 @@ Some liturgical traditions preserve inscriptional forms such as:
 | Form | Meaning |
 |---|---|
 | Karo | did |
-| Karu | actively doing |
+| Karu | actively doing / ongoing action |
 | Kari | will do |
 | Karó | has done / had done |
+
+## Notes
+
+Bare verb roots often imply:
+- habitual action
+- timeless action
+- general truth
+
+`-u` forms commonly imply:
+- active
+- ongoing
+- present-progressive action
 
 ## Examples
 
@@ -408,6 +457,10 @@ Some liturgical traditions preserve inscriptional forms such as:
 | Lu | is |
 | Li | will be |
 | Ló | had / completed past state |
+
+## Notes
+
+In ordinary speech, explicit existential/state words are often omitted when tense or context already conveys meaning.
 
 ---
 
@@ -453,6 +506,10 @@ Examples:
 Careful / clarified speech:
 
 `etMit etTeau etMitauMit`
+
+Common speech shortening:
+
+`etMitTeauMitauMit → etMitTeauMit`
 
 The original grammatical logic is no longer fully understood by most speakers.
 
@@ -506,7 +563,7 @@ The origin of the final `k` is often forgotten.
 |---|---|
 | AhChah | to arrive |
 | Ah AhChah | welcome (formal) |
-| Ah AhCha | welcome (casual) |
+| AhCh | welcome (casual shortened form) |
 
 ---
 
@@ -543,8 +600,8 @@ The `D-` family broadly conveys:
 
 # Expressions
 
-`NiAh, NiAh!`
-> excitement
+`NiAh!`
+> glory / exaltation / triumph
 
 `Dar MarUrhGosh!`
 > “To Hell with you!”
@@ -566,10 +623,28 @@ The `D-` family broadly conveys:
 | Word | Meaning |
 |---|---|
 | Kahm | I |
+| Kum | you (singular) |
 | Kaha | him |
 | Kahi | her |
+| Nuha | it |
+| Nahm | they (singular unspecified) |
 | Kahmo | we |
-| Nahm | they |
+| Kuhmo | you plural / y’all |
+| Nahmo | they (plural) |
+
+---
+
+# Interrogatives
+
+| Word | Meaning |
+|---|---|
+| Zah | who |
+| Zuh | what |
+| ZuhDuzh / ZuhDzh | when |
+| ZuhDe | where |
+| ZuhNa | why |
+| ZuhKar | how / by what method |
+| ZuhZhe | how much / to what extent |
 
 ---
 
@@ -603,15 +678,34 @@ Temporal expressions preserve fossilized use of the indefinite article (`et-`).
 | Word | Meaning |
 |---|---|
 | Kahme | mine |
+| Kume | yours (singular) |
 | Kahá | his |
 | Kahí | hers |
+| Nuhá | its |
+| Nahme | theirs (singular unspecified) |
 | Kahmó | ours |
-| Nahme | theirs |
+| Kuhmó | yours (plural) |
+| Nahmó | theirs (plural) |
 
 ## Rules
 
 - consonant endings → `+e`
 - vowel endings → accent
+
+---
+
+# Conjunctions
+
+| Word | Meaning |
+|---|---|
+| z | or |
+
+## Notes
+
+Some dialects and poetic traditions soften:
+`z → zh`
+
+especially in musical or ceremonial speech.
 
 ---
 
@@ -637,7 +731,7 @@ Temporal expressions preserve fossilized use of the indefinite article (`et-`).
 | Word | Meaning |
 |---|---|
 | Krao | alternate form of zero |
-| Tit | alternate form of ten |
+| Tit | nonstandard alternate form of ten |
 
 ## Tens
 
@@ -656,13 +750,14 @@ Temporal expressions preserve fossilized use of the indefinite article (`et-`).
 ## Ordinals
 
 - add `-n`
-- `Mit / Tit → -en`
+- `Mit / Tit → -ene`
 
 ## Historical Notes
 
 - `Naro` derives from `Nar`
 - `Krao` derives from `Kra`
 - `Tit` reflects a parallel counting tradition
+- `Titen` remains especially common in temporal contexts
 
 ---
 
@@ -676,6 +771,7 @@ Temporal expressions preserve fossilized use of the indefinite article (`et-`).
 - `-o` = plural / collective
 - `-(h)e` = expanse
 - `-l` = realm / place
+- `-la` = color / appearance
 - `-n` = abstract noun
 - `-s` = comparative
 - `-su` = superlative
