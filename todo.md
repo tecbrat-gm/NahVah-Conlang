@@ -4,14 +4,6 @@
 
 # Core Grammar
 
-- [ ] Create interrogatives
-  - [ ] who
-  - [ ] what
-  - [ ] when
-  - [ ] where
-  - [ ] why
-  - [ ] how
-  - [ ] determine possible `Z-` interrogative family
 
 - [ ] Define question sentence structure
 - [ ] Define existential/question uses of "is"
