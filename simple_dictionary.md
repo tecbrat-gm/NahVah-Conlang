@@ -5,7 +5,7 @@
 
 # Pronunciation Notes
 
-NahVah pronunciation is intentionally phonetic and relatively shallow.
+NahVah pronunciation is intentionally phonetic and relatively shallow; words are generally pronounced close to how they are written.
 
 ## General Rules
 
@@ -62,6 +62,7 @@ Example:
 | AhChah | v. | /a̤.t͡ʃa̤/ | arrive-action | to arrive |
 | AhGosh | n. | /a̤.gɒʃ/ | good-home | the world |
 | AhKar | v. | /a̤.kaɹ/ | good-action | to love |
+| AhKarNah | n. | /a̤.kaɹ.na̤/ | love-person | lover |
 | AhKarl | n. | /a̤.kaɹl/ | good-action-realm | realm of love |
 | AhKarn | n. | /a̤.kaɹn/ | good-action-concept | love |
 | AhMarl | n. | /a̤.maɹl/ | good-eternal-realm | realm of eternal good |
@@ -84,6 +85,7 @@ Example:
 | Chah | n. | /t͡ʃa̤/ | softened-rock | dirt |
 | Chahe | n. | /t͡ʃa̤.e/ | dirt-expanse | terrain |
 | Chok | n. | /t͡ʃɒk/ | rock | rock |
+| ChokKarNah | n. | /t͡ʃɒk.kaɹ.na̤/ | rock-worker-person | mason / stoneworker |
 
 ---
 
@@ -108,7 +110,15 @@ Example:
 | Dizh | prep. | /diʒ/ | lower-relation | below / beneath |
 | Dut | prep. | /dut/ | passage-relation | through |
 | Duzh | prep. | /duʒ/ | surrounding-relation | around |
-| Duzh | n. | /duʒ/ | cycle / yearly cycle | year (See also: MiDuzhDiSelVi) |
+| Duzh | n. | /duʒ/ | cycle / yearly cycle | year |
+
+---
+
+# E
+
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| etMitTi | n. | /et.mit.ti/ | abstract-time | time |
 
 ---
 
@@ -121,32 +131,50 @@ Example:
 
 ---
 
+# J
+
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|---|---|---|---|---|
+| Ji | v. | /ji/ | future-possession | will have |
+| Jo | v. | /jo/ | past-possession | had |
+| Jox | v. | /jɒks/ | completed-possession | had possessed |
+| Ju | v. | /ju/ | present-possession | has |
+
+---
+
 # K
 
 | NahVah | POS | IPA | Literal / Root Meaning | English |
 |---|---|---|---|---|
 | Kaha | pron. | /ka̤.a/ | masculine reference | him |
-| Kahá | pron. | /ka̤ˈa/ | his-possession | his |
+| Kahane | pron. | /ka̤.a.ne/ | masculine-possession | his |
 | Kahi | pron. | /ka̤.i/ | feminine reference | her |
-| Kahí | pron. | /ka̤ˈi/ | hers-possession | hers |
+| Kahine | pron. | /ka̤.i.ne/ | feminine-possession | hers |
 | Kahm | pron. | /ka̤m/ | self/person | I |
 | Kahme | pron. | /ka̤m.e/ | self-possession | mine |
 | Kahmo | pron. | /ka̤m.o/ | grouped-self | we |
-| Kahmó | pron. | /ka̤mˈo/ | our-possession | ours |
-| Kahá NiChok | n. | /ka̤ˈa ni.t͡ʃɒk/ | his-high-rock | skull |
+| Kahmone | pron. | /ka̤m.o.ne/ | grouped-self-possession | ours |
+| Kahne | pron. | /ka̤n.e/ | dialectal mine | mine (dialectal) |
+| Kahane NiChok | n. | /ka̤.a.ne ni.t͡ʃɒk/ | his-high-rock | skull |
 | Kahru | v. | /ka̤.ɹu/ | existential-self | I am |
 | Kar | v. | /kaɹ/ | action / act / make | do |
+| KarDahn | v. | /kaɹ.dan/ | action-away-from | oppose / resist |
+| KarDahnNah | n. | /kaɹ.dan.na̤/ | opposing-person | rebel / adversary |
 | Kari | v. | /kaɹ.i/ | future-action | will do |
+| KarNah | n. | /kaɹ.na̤/ | action-person | worker / doer |
 | Karo | v. | /kaɹ.o/ | did-action | did |
+| Karox | v. | /kaɹ.ɒks/ | completed-action | has done |
 | Karu | v. | /kaɹ.u/ | active-action | actively doing |
-| Karó | v. | /kaɹˈo/ | completed-action | has done |
 | Ki | adj. | /ki/ | not-high | low |
+| Ki | v. | /ki/ | future-acquisition | will get |
+| Ko | v. | /kɒ/ | past-acquisition | got |
+| Kox | v. | /kɒks/ | completed-acquisition | had gotten |
 | Kra | part. | /kɹa/ | not / no | no |
-| Krao | n. | /kɹa.o/ | no-thing | zero (dialectal) (See also: Naro) |
+| Krao | n. | /kɹa.o/ | no-thing | zero (dialectal) |
 | KraViLa | adj. | /kɹa.vi.la/ | no-light-color | black |
-| Ku | part. | /ku/ | yes | yes |
+| Ku | v. | /ku/ | present-acquisition | gets |
 | Kuhmo | pron. | /kṳm.o/ | plural-addressed-person | y’all / you plural |
-| Kuhmó | pron. | /kṳmˈo/ | plural-your-possession | yours (plural) |
+| Kuhmone | pron. | /kṳm.o.ne/ | plural-your-possession | yours (plural) |
 | Kum | pron. | /kum/ | addressed-person | you |
 | Kume | pron. | /kum.e/ | your-possession | yours |
 
@@ -158,7 +186,7 @@ Example:
 |---|---|---|---|---|
 | Li | v. | /li/ | future-state | will be |
 | Lo | v. | /lo/ | past-state | was |
-| Ló | v. | /ˈlo/ | completed-state | had been |
+| Lox | v. | /lɒks/ | completed-state | had been |
 | Lu | v. | /lu/ | is-state | is |
 
 ---
@@ -180,9 +208,9 @@ Example:
 | Mic | n. | /mik/ | small-scurrying-creature | rodent |
 | MicBah | n. | /mik.ba̤/ | rodent-hunter | cat |
 | MicBahDiGosh | n. | /mik.ba̤.di.gɒʃ/ | cat-of-home | housecat |
-| MiDuzhDiSelVi | n. | /mi.duʒ.di.sel.vi/ | one-around-of-sun | formal / historical word for year (See also: Duzh) |
-| MiTiDu | n. | /mi.ti.du/ | shortened-day-form | day (See also: MituanDiTitenDiDuzh) |
-| MituanDiTitenDiDuzh | n. | /mi.tu.an.di.ti.ten.di.duʒ/ | one-thirtieth-of-tenth-of-year | formal word for day (See also: MiTiDu) |
+| MiDuzhDiSelVi | n. | /mi.duʒ.di.sel.vi/ | one-around-of-sun | formal / historical word for year |
+| MiTiDu | n. | /mi.ti.du/ | shortened-day-form | day |
+| MituanDiTitenDiDuzh | n. | /mi.tu.an.di.ti.ten.di.duʒ/ | one-thirtieth-of-tenth-of-year | formal word for day |
 | Miu | num. | /mi.u/ | one-group | ten |
 | Mit | num. | /mit/ | five | five |
 | Mita | num. | /mi.ta/ | two | two |
@@ -202,7 +230,8 @@ Example:
 | Nahm | pron. | /na̤m/ | singular unspecified person | they (singular unspecified) |
 | Nahme | pron. | /na̤m.e/ | singular unspecified possession | theirs (singular unspecified) |
 | Nahmo | pron. | /na̤m.o/ | plural unspecified persons | they (plural) |
-| Nahmó | pron. | /na̤mˈo/ | plural unspecified possession | theirs (plural) |
+| Nahmone | pron. | /na̤m.o.ne/ | plural unspecified possession | theirs (plural) |
+| Nahne | pron. | /na̤n.e/ | dialectal theirs | theirs (dialectal singular) |
 | Nahoa | n. | /na̤.o.a/ | spirit | spirit |
 | NahoaDiNiMarAhGosh | n. | /na̤.o.a.di.ni.maɹ.a̤.gɒʃ/ | spirits-of-high-eternal-home | angels |
 | NahoaUrh | n. | /na̤.o.a.uɹ̤/ | damned-spirit | demon |
@@ -218,7 +247,7 @@ Example:
 | NaNaRahn | n. | /na.na.ɹa̤n/ | small-small-animal | insects / spiders |
 | Nar | adv. | /naɹ/ | never | never |
 | NaRahn | n. | /na.ɹa̤n/ | small-animal | small creature |
-| Naro | n. | /naɹ.o/ | never-thing | zero (See also: Krao) |
+| Naro | n. | /naɹ.o/ | never-thing | zero |
 | NaVi | n. | /na.vi/ | lesser-light | moon |
 | NaViLa | adj. | /na.vi.la/ | lesser-light-color | gray |
 | Ni | adj. | /ni/ | high place | high |
@@ -233,7 +262,7 @@ Example:
 | Nis | adj. | /nis/ | higher | comparative form |
 | Nisu | adj. | /ni.su/ | highest | superlative form |
 | Nuha | pron. | /nṳ.a/ | neuter reference | it |
-| Nuhá | pron. | /nṳˈa/ | its-possession | its |
+| Nuhane | pron. | /nṳ.a.ne/ | neuter-possession | its |
 
 ---
 
@@ -241,6 +270,7 @@ Example:
 
 | NahVah | POS | IPA | Literal / Root Meaning | English |
 |---|---|---|---|---|
+| Rah | part. | /ɹa̤/ | affirmation | yes |
 | Rahn | n. | /ɹa̤n/ | animal | animal |
 | RahnDiGosh | n. | /ɹa̤n.di.gɒʃ/ | animal-of-home | pet |
 | RahnVah | n. | /ɹa̤n.va̤/ | animal-voice | animal sound |
@@ -256,6 +286,7 @@ Example:
 | Sel | n. | /sel/ | air-realm | sky |
 | SelBah | n. | /sel.ba̤/ | sky-hunter | raptor |
 | SelKar | n. | /sel.kaɹ/ | sky-action | weather / heavenly motion |
+| SelKarNah | n. | /sel.kaɹ.na̤/ | sky-action-person | weather-worker / sky-worker |
 | SelLa | adj. | /sel.la/ | sky-color | blue |
 | SelMaVi | n. | /sel.ma.vi/ | great-sky-light | sun (dialectal) |
 | SelRahn | n. | /sel.ɹa̤n/ | sky-animal | bird |
@@ -271,10 +302,10 @@ Example:
 |---|---|---|---|---|
 | Te | num. | /te/ | nine | nine |
 | Ti | num. | /ti/ | six | six |
-| TiDuzh | n. | /ti.duʒ/ | shortened-tenth-of-year | month (See also: TitenDiDuzh) |
+| TiDuzh | n. | /ti.duʒ/ | shortened-tenth-of-year | month |
 | Tita | num. | /ti.ta/ | seven | seven |
 | Titene | num. | /tit.en.e/ | tenth | tenth |
-| TitenDiDuzh | n. | /tit.en.di.duʒ/ | tenth-of-year | formal word for month (See also: TiDuzh) |
+| TitenDiDuzh | n. | /tit.en.di.duʒ/ | tenth-of-year | formal word for month |
 | Ty | num. | /tai/ | eight | eight |
 
 ---
@@ -294,6 +325,7 @@ Example:
 | UrhBah | n. | /uɹ̤.ba̤/ | evil-hunter | scavenger / carrion bird |
 | UrhBahDiSel | n. | /uɹ̤.ba̤.di.sel/ | evil-hunter-of-sky | vulture / buzzard |
 | UrhKar | v. | /uɹ̤.kaɹ/ | evil-action | to commit evil |
+| UrhKarNah | n. | /uɹ̤.kaɹ.na̤/ | evil-action-person | sinner / evildoer |
 | UrhKarn | n. | /uɹ̤.kaɹn/ | evil-action-concept | sin |
 | UrhNah | n. | /uɹ̤.na̤/ | evil-person | vile husband / accursed man |
 | UrhNahi | n. | /uɹ̤.na̤.i/ | evil-woman | vile wife / accursed woman |
@@ -311,6 +343,7 @@ Example:
 | Vah | n. | /va̤/ | voice / sound | voice |
 | VaDiSel | n. | /va.di.sel/ | water-of-sky | rain |
 | VaKar | n. | /va.kaɹ/ | water-action | river |
+| VaKarNah | n. | /va.kaɹ.na̤/ | water-action-person | sailor / riverman |
 | Val | n. | /val/ | water-place | lake |
 | VaRahn | n. | /va.ɹa̤n/ | water-animal | water creature |
 | Vau | v. | /va.u/ | water-action | to swim |
@@ -322,10 +355,13 @@ Example:
 
 | NahVah | POS | IPA | Literal / Root Meaning | English |
 |---|---|---|---|---|
-| z | conj. | /z/ | choice / alternative | or |
 | Zah | pron. | /za̤/ | interrogative-person | who |
+| Zh | conj. | /ʒ/ | alternative / choice | or |
+| Zhah | conj. | /ʒa̤/ | connective / joining | and |
+| Zhahx | conj. | /ʒa̤ks/ | interrupted-joining | but / however |
 | Zhe | n. | /ʒe/ | number | number |
 | Zheu | v. | /ʒe.u/ | number-action | to count |
+| Zho | conj. | /ʒo/ | reduced connective | and (dialectal) |
 | Zuh | pron. | /zṳ/ | interrogative-thing | what |
 | ZuhDe | adv. | /zṳ.de/ | what-place | where |
 | ZuhDuzh | adv. | /zṳ.duʒ/ | what-cycle | when (formal) |
