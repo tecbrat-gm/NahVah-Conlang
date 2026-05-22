@@ -191,8 +191,8 @@ The suffix `-la` commonly forms color or appearance terms.
 | -o | plural / collective |
 | -(h)e | expanse |
 | -l | realm / place |
-| -n | abstract noun |
 | -la | color / appearance |
+| -n | abstract noun |
 
 ## Notes
 
@@ -352,6 +352,7 @@ implies:
 | AhKarn | love (concept) |
 | UrhKar | to commit evil |
 | UrhKarn | sin / corrupt action / wickedness |
+| KarDahn | to oppose / resist / act against |
 
 ## Cultural Notes
 
@@ -392,6 +393,16 @@ from
 
 Older texts remain ambiguous.
 
+Dense sacred compounds are especially common in:
+- liturgy
+- ceremonial speech
+- theological titles
+- devotional poetry
+
+Example:
+
+`NiēAhNahoaDiMarAhGosh`
+
 ---
 
 # Existential / Sacred Forms
@@ -417,7 +428,7 @@ Explicit existential statements are often considered weighty, philosophical, or 
 |---|---|
 | Kar | act / do / make |
 | Kra | not / no / don’t |
-| Ku | yes |
+| Rah | yes |
 
 ## Verb Forms
 
@@ -426,7 +437,7 @@ Explicit existential statements are often considered weighty, philosophical, or 
 | Karo | did |
 | Karu | actively doing / ongoing action |
 | Kari | will do |
-| Karó | has done / had done |
+| Karox | has done / had done |
 
 ## Notes
 
@@ -440,27 +451,63 @@ Bare verb roots often imply:
 - ongoing
 - present-progressive action
 
-## Examples
+## Derived Verb Examples
 
 | Word | Meaning |
 |---|---|
 | Selu | to fly |
 | Vau | to swim |
 
+## Historical Notes
+
+Historically, completed aspect was marked with accented vowels:
+
+`Karó`
+
+Over time, many dialects strengthened the distinction into:
+
+`Karox`
+
+for greater spoken clarity.
+
 ---
 
-# Time System
+# States of Being, Possession & Acquisition
+
+## Existential Family
 
 | Word | Meaning |
 |---|---|
 | Lo | was |
 | Lu | is |
 | Li | will be |
-| Ló | had / completed past state |
+| Lox | had been / completed state |
+
+## Possession Family
+
+| Word | Meaning |
+|---|---|
+| Jo | had |
+| Ju | has |
+| Ji | will have |
+| Jox | had possessed |
+
+## Acquisition Family
+
+| Word | Meaning |
+|---|---|
+| Ko | got |
+| Ku | gets |
+| Ki | will get |
+| Kox | had gotten |
 
 ## Notes
 
-In ordinary speech, explicit existential/state words are often omitted when tense or context already conveys meaning.
+These tightly related verb families are considered foundational conceptual structures in NahVah:
+
+- existence
+- possession
+- acquisition
 
 ---
 
@@ -479,6 +526,7 @@ Nah calendrical systems are based on celestial cycles and decimalized mathematic
 | MituanDiTitenDiDuzh | formal word for day |
 | MiTiDu | day (common form) |
 | NaMiTiDu | “small-day”; primary subdivision of a day |
+| etMitTi | time |
 
 ## Calendar Structure
 
@@ -596,6 +644,14 @@ The `D-` family broadly conveys:
 - spatial orientation
 - conceptual positioning
 
+Some dialects disambiguate:
+
+`Dip → DipUh`
+
+to distinguish it more clearly from:
+
+`Dēp`
+
 ---
 
 # Expressions
@@ -614,7 +670,27 @@ The `D-` family broadly conveys:
 |---|---|
 | NiNiChok | very tall mountain |
 | RahnDiGosh | pet |
-| Kahá NiChok | skull (“a person’s high rock”) |
+| Kahane NiChok | skull (“a person’s high rock”) |
+| UrhKarNah | sinner / evildoer |
+
+## Notes
+
+`X + Nah`
+
+commonly forms:
+- role identities
+- habitual actors
+- professions
+- philosophical identities
+
+Examples:
+
+| Word | Meaning |
+|---|---|
+| KarNah | worker / doer |
+| AhKarNah | lover |
+| UrhKarNah | sinner |
+| ChokKarNah | stoneworker / mason |
 
 ---
 
@@ -677,20 +753,38 @@ Temporal expressions preserve fossilized use of the indefinite article (`et-`).
 
 | Word | Meaning |
 |---|---|
-| Kahme | mine |
+| Kahme / Kahne | mine |
 | Kume | yours (singular) |
-| Kahá | his |
-| Kahí | hers |
-| Nuhá | its |
-| Nahme | theirs (singular unspecified) |
-| Kahmó | ours |
-| Kuhmó | yours (plural) |
-| Nahmó | theirs (plural) |
+| Kahane | his |
+| Kahine | hers |
+| Nuhane | its |
+| Nahme / Nahne | theirs (singular unspecified) |
+| Kahmone | ours |
+| Kuhmone | yours (plural) |
+| Nahmone | theirs (plural) |
 
 ## Rules
 
 - consonant endings → `+e`
-- vowel endings → accent
+- vowel endings → `+ne`
+
+## Historical Notes
+
+Earlier NahVah used accented vowel-final possessives:
+
+- `Kahá`
+- `Kahí`
+- `Nuhá`
+- `Kahmó`
+- `Kuhmó`
+- `Nahmó`
+
+Over time, many dialects expanded these forms for greater spoken clarity.
+
+Older forms remain:
+- poetic
+- liturgical
+- archaic
 
 ---
 
@@ -698,14 +792,25 @@ Temporal expressions preserve fossilized use of the indefinite article (`et-`).
 
 | Word | Meaning |
 |---|---|
-| z | or |
+| Zh | or |
+| Zhah | and |
+| Zho | dialectal / reduced “and” |
+| Zhahx | but / however |
 
 ## Notes
 
-Some dialects and poetic traditions soften:
-`z → zh`
+NahVah conjunctions form a recognizable connective family.
 
-especially in musical or ceremonial speech.
+The `zh-` sound broadly conveys:
+- relation
+- connection
+- alternative
+- conceptual linkage
+
+The `-x` ending in `Zhahx` implies:
+- interruption
+- contrast
+- broken expectation
 
 ---
 
@@ -752,6 +857,16 @@ especially in musical or ceremonial speech.
 - add `-n`
 - `Mit / Tit → -ene`
 
+Ordinal nouns commonly function as fractions.
+
+Examples:
+
+| Word | Meaning |
+|---|---|
+| etMitan | one half |
+| Mita Myno | two thirds |
+| My Meno | three fourths |
+
 ## Historical Notes
 
 - `Naro` derives from `Nar`
@@ -765,9 +880,9 @@ especially in musical or ceremonial speech.
 
 - SVO word order
 - modifiers precede nouns
+- lexical compounds may separate into descriptive phrases
 - repetition = emotional emphasis
-- `-ó` = completed action
-- accent = possession
+- `-ox` = completed action/state
 - `-o` = plural / collective
 - `-(h)e` = expanse
 - `-l` = realm / place
