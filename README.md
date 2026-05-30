@@ -7,4 +7,12 @@ Current primary document:
 
 AI Disclosure
 
-I discuss my changes with ChatGPT and it helps me organize my work and format my documents, but the work is mine.
+I discuss my changes with ChatGPT and Grok and they help me organize my work and format my documents, but the work is mine.
+
+---
+
+## Note on the Name
+
+"NahVah" is an original name for this constructed language, meaning roughly **"The Voice of the People"**.
+
+It is a pure coincidence that a similar-sounding word ("nahvah" = master) exists in **D'ni**, the fictional language from the *Myst/Riven* game series. No connection is intended.
