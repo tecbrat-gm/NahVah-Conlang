@@ -34,9 +34,20 @@ NahVah pronunciation is intentionally phonetic and relatively shallow; words are
 |---|---|---|
 | ch | /t͡ʃ/ | chocolate |
 | sh | /ʃ/ | short |
-| zh | /ʒ/ | beige / measure |
+| zh | /ʒ/ or /ʒ̩/ | beige / measure; /ʒ̩/ when standalone conjunction |
 | r | /ɹ/ | English-style rhotic R (“rock”, “red”) |
 | h | breathiness marker | lightly breathy |
+
+## Guttural Register
+
+NahVah contains a distinct guttural register that stands apart from its otherwise smooth profile.
+
+| Sound | IPA | Notes |
+|-------|-----|-------|
+| Urh | /uʀ̥/ | Back-of-throat voiceless trill; marks evil / damnation |
+| -gr | /ɢʀ̩̰/ | Sentence-terminating particle; disgust / anger |
+
+These sounds are intentionally disruptive and avoided in formal or sacred registers.
 
 ## Compound Pluralization
 
@@ -45,6 +56,45 @@ In compound words, the pluralizing `-o` is added to the pluralized root rather t
 Example:
 
 `UrhBah(o)DiSel`
+
+---
+
+# Morphology Reference
+
+## Tense / Aspect Suffixes
+
+| Suffix | Meaning |
+|--------|---------|
+| -o     | past |
+| -u     | active / present |
+| -i     | future |
+| -ox    | completed |
+| -oz    | past-habitual ("used to") |
+
+## Derivational Suffixes
+
+| Suffix | Meaning |
+|--------|---------|
+| -un    | verbalizer (derives verb from noun/adj) |
+| -n     | activity noun / abstract noun |
+| -ur    | general agentive |
+| -uri   | feminine agentive |
+| -uro   | personified agentive |
+| -uk    | instrumental / device |
+| -l     | realm / place |
+| -la    | color / appearance |
+| -ek    | flesh / material state |
+| -o     | plural / collective |
+| -(h)e  | expanse |
+| -s     | comparative |
+| -su    | superlative |
+
+## Sentence-Terminating Particles
+
+| Particle | IPA | Meaning |
+|----------|-----|---------|
+| -e | /ĕ/ | question marker |
+| -gr | /ɢʀ̩̰/ | disgust / anger |
 
 ---
 
@@ -75,6 +125,34 @@ Example:
 | AhVal | n. | /a̤.val/ | good-water-place | lake |
 | Ahs | adj. | /a̤s/ | better | comparative form |
 | Ahsu | adj. | /a̤.su/ | best | superlative form |
+| Aht | v. | /a̤t/ | touch (positive/neutral) | to touch |
+| AhBahsur | n. | /a̤.ba̤.suɹ/ | righteous-fighter | champion / righteous warrior / defender |
+
+---
+
+# B
+
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|--------|-----|-----|------------------------|---------|
+| Bah | n. | /ba̤/ | hunter | hunter |
+| Bahi | v. | /ba̤.i/ | future-hunt | will hunt |
+| Baho | v. | /ba̤.o/ | past-hunt | hunted |
+| Bahox | v. | /ba̤.ɒks/ | completed-hunt | has hunted |
+| Bahoz | v. | /ba̤.oz/ | habitual-hunt | used to hunt |
+| Bahu | v. | /ba̤.u/ | active-hunt | is hunting |
+| Bahun | v. | /ba̤.un/ | hunt-verb | to hunt |
+| Bahk | v. | /ba̤k/ | provide / support | to provide |
+| Bahkuk | n. | /ba̤k.uk/ | providing-device | provisioning instrument |
+| Bahkur | n. | /ba̤k.uɹ/ | provider-agent | provider |
+| Bahkuri | n. | /ba̤k.uɹ.i/ | female-provider | female provider |
+| Bahs | n. | /ba̤s/ | fight / combat / battle | fight / combat |
+| Bahsi | v. | /ba̤s.i/ | future-fight | will fight |
+| Bahso | v. | /ba̤s.o/ | past-fight | fought |
+| Bahsox | v. | /ba̤s.ɒks/ | completed-fight | has fought |
+| Bahsoz | v. | /ba̤s.oz/ | habitual-fight | used to fight |
+| Bahsu | v. | /ba̤s.u/ | active-fight | is fighting |
+| Bahsun | v. | /ba̤s.un/ | fight-verb | to fight |
+| Bahsur | n. | /ba̤s.uɹ/ | fighter-agent | fighter / warrior / combatant |
 
 ---
 
@@ -95,6 +173,8 @@ Example:
 |---|---|---|---|---|
 | Dahn | prep. | /dan/ | away-from | away from |
 | Dar | prep. | /daɹ/ | toward / movement-to | to / toward |
+| Dar | n. | /daɹ/ | road / path / way | road / path (nominal drift from prep.) |
+| DarAhKarl | n. | /daɹ.a̤.kaɹl/ | road-to-realm-of-love | The Road to the Realm of Love (constellation) |
 | Dazh | prep. | /daʒ/ | beside-relation | beside / near |
 | Den | prep. | /den/ | beyond-relation | beyond |
 | Det | prep. | /det/ | inward-relation | inside / within |
@@ -188,6 +268,10 @@ Example:
 | Koru | v. | /koɹ.u/ | active-creation | making |
 | Korur | n. | /koɹ.uɹ/ | creator-agent | maker / creator |
 | Kox | v. | /kɒks/ | completed-acquisition | had gotten |
+| Kak | n. | /kak/ | hand (common form of Karuk) | hand |
+| Karuk | n. | /kaɹ.uk/ | doer-device / hand | hand (see also: vehicle) |
+| Kik | n. | /kik/ | foot (common form of Kiruk) | foot |
+| KuVah | n. | /ku.va̤/ | get-voice | ears |
 | Kra | part. | /kɹa/ | not / no | no |
 | Krao | n. | /kɹa.o/ | no-thing | zero (dialectal) |
 | KraViLa | adj. | /kɹa.vi.la/ | no-light-color | black |
@@ -227,6 +311,8 @@ Example:
 | Mic | n. | /mik/ | small-scurrying-creature | rodent |
 | MicBah | n. | /mik.ba̤/ | rodent-hunter | cat |
 | MicBahDiGosh | n. | /mik.ba̤.di.gɒʃ/ | cat-of-home | housecat |
+| MitaSek | n. | /mi.ta.sek/ | two-breaths | nose |
+| MitaSekMim | n. | /mi.ta.sek.mim/ | nose-thing | nostril |
 | MiMi | n. | /mi.mi/ | one-one | thing / object / item |
 | MiMiMiMi | n. | /mi.mi.mi.mi/ | thing-thing | whatchamacallit / thingamajig |
 | MiDuzhDiSelVi | n. | /mi.duʒ.di.sel.vi/ | one-around-of-sun | formal / historical word for year |
@@ -255,6 +341,9 @@ Example:
 | Nahne | pron. | /na̤n.e/ | dialectal theirs | theirs (dialectal singular) |
 | Nahoa | n. | /na̤.o.a/ | spirit | spirit |
 | NahoaDiNiMarAhGosh | n. | /na̤.o.a.di.ni.maɹ.a̤.gɒʃ/ | spirits-of-high-eternal-home | angels |
+| NahoaDiNah | n. | /na̤.o.a.di.na̤/ | spirit-of-person | spirit of man |
+| NahVi | n. | /na̤.vi/ | person-light | eye (singular) |
+| NahVio | n. | /na̤.vi.o/ | person-lights | eyes (plural) |
 | NahoaUrh | n. | /na̤.o.a.uɹ̤/ | damned-spirit | demon |
 | NahSeKar | n. | /na̤.se.kaɹ/ | person-air-action | breath |
 | NahVah | n. | /na̤.va̤/ | person-voice | NahVah language |
@@ -287,6 +376,31 @@ Example:
 
 ---
 
+# P
+
+| NahVah | POS | IPA | Literal / Root Meaning | English |
+|--------|-----|-----|------------------------|---------|
+| Pa | adj. | /pa/ | temperate / moderate | temperate / moderate / balanced |
+| Pe | adj. | /pe/ | hot | hot |
+| Pen | n. | /pen/ | heat | heat |
+| Peni | v. | /pen.i/ | future-heat | will heat |
+| Peno | v. | /pen.o/ | past-heat | heated |
+| Penox | v. | /pen.ɒks/ | completed-heat | has heated |
+| Penoz | v. | /pen.oz/ | habitual-heat | used to heat |
+| Penu | v. | /pen.u/ | active-heat | is heating |
+| Penun | v. | /pen.un/ | heat-verb | to heat |
+| PenPen | n. | /pen.pen/ | fire | fire |
+| PenPenBahsur | n. | /pen.pen.ba̤.suɹ/ | fire-fighter | firefighter / keeper of sacred flames |
+| PenPeni | v. | /pen.pen.i/ | future-burn | will burn |
+| PenPeno | v. | /pen.pen.o/ | past-burn | burned |
+| PenPenox | v. | /pen.pen.ɒks/ | completed-burn | has burned |
+| PenPenoz | v. | /pen.pen.oz/ | habitual-burn | used to burn |
+| PenPenu | v. | /pen.pen.u/ | active-burn | is burning |
+| PenPenun | v. | /pen.pen.un/ | burn-verb | to burn |
+| Po | adj. | /po/ | cold | cold |
+
+---
+
 # R
 
 | NahVah | POS | IPA | Literal / Root Meaning | English |
@@ -302,7 +416,10 @@ Example:
 
 | NahVah | POS | IPA | Literal / Root Meaning | English |
 |---|---|---|---|---|
-| Se | n. | /se/ | air | air |
+| Sa | n. | /sa/ | liquid (state of matter) | liquid |
+| Se | n. | /se/ | air | air / gas (natural philosophy) |
+| Shah | n. | /ʃa̤/ | dust | dust |
+| So | n. | /so/ | solid (state of matter) | solid |
 | SeKar | n. | /se.kaɹ/ | air-action | wind / airflow |
 | Sel | n. | /sel/ | air-realm | sky |
 | SelBah | n. | /sel.ba̤/ | sky-hunter | raptor |
@@ -342,7 +459,7 @@ Example:
 | Unko | n. | /unk.o/ | trees / tree-group | trees / wooded grouping |
 | UnkoRahn | n. | /unk.o.ɹa̤n/ | tree-group-animal | forest creature |
 | UnkLa | adj. | /unk.la/ | tree-color | brown |
-| Urh | adj. | /uɹ̤/ | evil / damned / accursed | evil |
+| Urh | adj. | /uʀ̥/ | evil / damned / accursed | evil |
 | UrhBah | n. | /uɹ̤.ba̤/ | evil-hunter | scavenger / carrion bird |
 | UrhBahDiSel | n. | /uɹ̤.ba̤.di.sel/ | evil-hunter-of-sky | vulture / buzzard |
 | UrhKar | v. | /uɹ̤.kaɹ/ | evil-action | to commit evil |
@@ -350,7 +467,10 @@ Example:
 | UrhKarn | n. | /uɹ̤.kaɹn/ | evil-action-concept | sin |
 | UrhNah | n. | /uɹ̤.na̤/ | evil-person | vile husband / accursed man |
 | UrhNahi | n. | /uɹ̤.na̤.i/ | evil-woman | vile wife / accursed woman |
-| UrhSe | n. | /uɹ̤.se/ | evil-air | poison gas / foul air |
+| UrhBahsur | n. | /uʀ̥.ba̤.suɹ/ | evil-fighter | villainous warrior / marauder / oppressor |
+| UrhEk | n. | /uʀ̥.ek/ | evil-flesh | carrion |
+| Urht | v. | /uʀ̥t/ | touch (negative) | to touch (with negative connotation) |
+| UrhSe | n. | /uʀ̥.se/ | evil-air | poison gas / foul air |
 | utKahru | n. | /ut.ka̤.ɹu/ | the-I-Am | sacred divine title |
 
 ---
@@ -368,7 +488,21 @@ Example:
 | Val | n. | /val/ | water-place | lake |
 | VaRahn | n. | /va.ɹa̤n/ | water-animal | water creature |
 | Vau | v. | /va.u/ | water-action | to swim |
+| VaSe | n. | /va.se/ | water-air | water vapor / atmospheric moisture |
+| Ve | n. | /ve/ | steam / vapor | steam / vapor |
 | Vi | n. | /vi/ | light / radiance | light |
+| Vo | n. | /vo/ | ice | ice |
+| VoDiSel | n. | /vo.di.sel/ | ice-from-sky | hail |
+| VoShah | n. | /vo.ʃa̤/ | ice-dust | snow |
+| Vahuk | n. | /va̤.uk/ | voice-maker | mouth |
+| Vuk | n. | /vuk/ | mouth (common form of Vahuk) | mouth |
+| VukAht | n. | /vuk.a̤t/ | mouth-touch | kiss |
+| VukAhti | v. | /vuk.a̤t.i/ | future-kiss | will kiss |
+| VukAhto | v. | /vuk.a̤t.o/ | past-kiss | kissed |
+| VukAhtox | v. | /vuk.a̤t.ɒks/ | completed-kiss | has kissed |
+| VukAhtoz | v. | /vuk.a̤t.oz/ | habitual-kiss | used to kiss |
+| VukAhtu | v. | /vuk.a̤t.u/ | active-kiss | is kissing |
+| VukAhtun | v. | /vuk.a̤t.un/ | kiss-verb | to kiss |
 
 ---
 
@@ -377,10 +511,11 @@ Example:
 | NahVah | POS | IPA | Literal / Root Meaning | English |
 |---|---|---|---|---|
 | Zah | pron. | /za̤/ | interrogative-person | who |
-| Zh | conj. | /ʒ/ | alternative / choice | or |
+| Zh | conj. | /ʒ̩/ | alternative / choice | or |
 | Zhah | conj. | /ʒa̤/ | connective / joining | and |
 | Zhahx | conj. | /ʒa̤ks/ | interrupted-joining | but / however |
 | Zhe | n. | /ʒe/ | number | number |
+| Zhezh | adj. | /ʒeʒ/ | much-number | much / many / a lot |
 | Zheu | v. | /ʒe.u/ | number-action | to count |
 | Zho | conj. | /ʒo/ | reduced connective | and (dialectal) |
 | Zuh | pron. | /zṳ/ | interrogative-thing | what |
