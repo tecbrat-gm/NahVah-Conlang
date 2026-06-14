@@ -33,7 +33,7 @@ It is an **SVO (Subject–Verb–Object)** language.
 | Ah   | good / fitting / righteous       |
 | Urh  | evil / damned / morally corrupted|
 | Rah  | yes / affirmation                |
-| Krah (Kra)| no / negation                    |
+| Krah | no / negation                    |
 | Ma   | large                            |
 | Na   | small                            |
 | Mar  | eternal                          |
@@ -493,22 +493,114 @@ Explicit existential statements are often considered weighty, philosophical, or 
 
 ---
 
+## Generic Object Vocabulary
+
+| Word       | Meaning                                        |
+|------------|------------------------------------------------|
+| MiMi       | thing / object / item                          |
+| MiMiMiMi   | whatchamacallit / thingamajig / unnamed object |
+
+## Notes
+
+`MiMi` derives naturally from `Mi` (one), following the semantic progression:
+
+`Mi → MiMi`
+> one → thing
+
+Repeated forms express increasing uncertainty, frustration, or inability to recall the proper name of an object. This follows the existing NahVah pattern where repetition adds emotional or expressive content.
+
+`Mim` is a contracted bound form of `MiMi` that appears in compounds (e.g. `DuzhMim`). It is not a standalone word.
+
+---
+
 ## Verbs & Actions
 
-| Word | Meaning |
-|------|---------|
-| Kar  | act / do / make |
-| Krah  | not / no / don’t |
-| Rah  | yes |
+| Word | Meaning          |
+|------|------------------|
+| Kar  | act / do         |
+| Kor  | make / create    |
+| Kir  | move             |
+| Krah | not / no / don’t |
+| Rah  | yes              |
+
+## Historical Notes
+
+`Kar` historically carried both "do" and "make." The newer roots `Kor` (create / make) and `Kir` (move) provide greater semantic precision. Older compounds using `Kar` are generally preserved rather than reanalyzed.
 
 ## Verb Forms
 
-| Form   | Meaning |
-|--------|---------|
-| Karo   | did |
+### Kar — act / do
+
+| Form   | Meaning                         |
+|--------|---------------------------------|
+| Karo   | did                             |
 | Karu   | actively doing / ongoing action |
-| Kari   | will do |
-| Karox  | has done / had done |
+| Kari   | will do                         |
+| Karox  | has done / had done             |
+
+### Kor — make / create
+
+| Form   | Meaning    |
+|--------|------------|
+| Koro   | made       |
+| Koru   | making     |
+| Kori   | will make  |
+| Korox  | has made   |
+
+### Kir — move
+
+| Form   | Meaning    |
+|--------|------------|
+| Kiro   | moved      |
+| Kiru   | moving     |
+| Kiri   | will move  |
+| Kirox  | has moved  |
+
+## Agentive & Instrumental Forms
+
+| Form    | Meaning                          |
+|---------|----------------------------------|
+| Korur   | maker / creator                  |
+| Kirur   | mover / transporter              |
+| Kiruk   | moving device / vehicle          |
+
+## Notes
+
+These follow the established suffix patterns:
+- `-ur` general agentive
+- `-uk` instrumental / device
+
+See also: `Bahkur` (provider) vs `Bahkuk` (providing device / instrument) in the Creature Classification section.
+
+---
+
+## Vehicle Terminology
+
+| Word          | Meaning                                        |
+|---------------|------------------------------------------------|
+| DuzhMim       | wheel ("around-thing")                         |
+| D'Mim         | wheel (common shortened form)                  |
+| DuzhMimKiruk  | wheeled vehicle                                |
+| D'MimKiruk    | wheeled vehicle (common form)                  |
+| D'MimKir      | wheeled vehicle (reduced form)                 |
+| Kiruk         | vehicle / transport device (emerging usage)    |
+
+## Historical Notes
+
+`DuzhMim` derives from `Duzh` (around) and `Mim`, a contracted bound form of `MiMi` (thing):
+
+`DuzhMiMi → DuzhMim`
+> around-thing → wheel
+
+The apostrophe in `D'Mim` indicates historical contraction or erosion rather than a normal morpheme boundary.
+
+Possible evolution of the common form:
+
+`DuzhMimKiruk → D'MimKiruk → D'MimKir`
+
+As non-wheeled vehicles become culturally common, `Kiruk` (vehicle) may generalize as the unmarked term, with `D'MimKiruk` retained for specificity.
+
+---
 
 ## Standing & Stability
 
@@ -677,6 +769,7 @@ The original grammatical logic is no longer fully understood by most speakers.
 
 `NahSeKar` literally means:
 > person-air-action
+
 Over time:
 `NahSeKar → AhSek`
 
