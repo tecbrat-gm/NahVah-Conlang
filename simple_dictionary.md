@@ -111,6 +111,12 @@ Example:
 | Dut | prep. | /dut/ | passage-relation | through |
 | Duzh | prep. | /duʒ/ | surrounding-relation | around |
 | Duzh | n. | /duʒ/ | cycle / yearly cycle | year |
+| DuzhMim | n. | /duʒ.mim/ | around-thing | wheel |
+| DuzhMimKiruk | n. | /duʒ.mim.ki.ɹuk/ | wheel-move-device | wheeled vehicle (formal / historical) |
+| D'Mim | n. | /dʔmim/ | contracted-around-thing | wheel |
+| D'MimKir | n. | /dʔmim.kiɹ/ | wheel-move | wheeled vehicle (reduced) |
+| D'MimKirRahn | n. | /dʔmim.kiɹ.ɹa̤n/ | wheel-vehicle-animal | draft animal / riding animal / beast of burden |
+| D'MimKiruk | n. | /dʔmim.ki.ɹuk/ | wheel-move-device | wheeled vehicle |
 
 ---
 
@@ -167,7 +173,20 @@ Example:
 | Karu | v. | /kaɹ.u/ | active-action | actively doing |
 | Ki | adj. | /ki/ | not-high | low |
 | Ki | v. | /ki/ | future-acquisition | will get |
+| Kir | v. | /kiɹ/ | move | move |
+| Kiri | v. | /kiɹ.i/ | future-motion | will move |
+| Kiro | v. | /kiɹ.o/ | past-motion | moved |
+| Kirox | v. | /kiɹ.ɒks/ | completed-motion | has moved |
+| Kiru | v. | /kiɹ.u/ | active-motion | moving |
+| Kiruk | n. | /ki.ɹuk/ | move-device | vehicle / conveyance |
+| Kirur | n. | /kiɹ.uɹ/ | motion-agent | mover / transporter |
 | Ko | v. | /kɒ/ | past-acquisition | got |
+| Kor | v. | /koɹ/ | create | make / create |
+| Kori | v. | /koɹ.i/ | future-creation | will make |
+| Koro | v. | /koɹ.o/ | past-creation | made |
+| Korox | v. | /koɹ.ɒks/ | completed-creation | has made |
+| Koru | v. | /koɹ.u/ | active-creation | making |
+| Korur | n. | /koɹ.uɹ/ | creator-agent | maker / creator |
 | Kox | v. | /kɒks/ | completed-acquisition | had gotten |
 | Kra | part. | /kɹa/ | not / no | no |
 | Krao | n. | /kɹa.o/ | no-thing | zero (dialectal) |
@@ -208,6 +227,8 @@ Example:
 | Mic | n. | /mik/ | small-scurrying-creature | rodent |
 | MicBah | n. | /mik.ba̤/ | rodent-hunter | cat |
 | MicBahDiGosh | n. | /mik.ba̤.di.gɒʃ/ | cat-of-home | housecat |
+| MiMi | n. | /mi.mi/ | one-one | thing / object / item |
+| MiMiMiMi | n. | /mi.mi.mi.mi/ | thing-thing | whatchamacallit / thingamajig |
 | MiDuzhDiSelVi | n. | /mi.duʒ.di.sel.vi/ | one-around-of-sun | formal / historical word for year |
 | MiTiDu | n. | /mi.ti.du/ | shortened-day-form | day |
 | MituanDiTitenDiDuzh | n. | /mi.tu.an.di.ti.ten.di.duʒ/ | one-thirtieth-of-tenth-of-year | formal word for day |
