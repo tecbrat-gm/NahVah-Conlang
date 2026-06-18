@@ -630,15 +630,13 @@ Animals are commonly categorized by:
 
 `Bah` (hunter) remains an inherited irregular agent noun. The newer derivational system using `Bahs` + `-un`/`-ur` is the productive modern pattern for combat-related vocabulary.
 
-`PenPenBahsur` may also carry cultural meanings: fire warrior, fire specialist, keeper of sacred flames.
-
 ---
 
 ## Flesh / Material Morphology
 
 | Suffix | Meaning                                               |
 |--------|-------------------------------------------------------|
-| -ek    | flesh / edible material / processed organic substance |
+| -ek    | flesh / edible material |
 
 **Examples**
 
@@ -649,8 +647,6 @@ Animals are commonly categorized by:
 - **UrhEk** — carrion (what UrhBah eat)
 
 ## Cultural Notes
-
-The "-ek" suffix often implies material reduction or consumable state. It is productive in culinary vocabulary, insults, and metaphorical language.
 
 ---
 
