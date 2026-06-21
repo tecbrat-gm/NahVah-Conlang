@@ -1,7 +1,7 @@
 # NahVah Lexicon
 
 *(Work in Progress)*
-
+v.26C6.17x7
 ---
 
 ## Preface
@@ -12,8 +12,8 @@ It is an **SVO (Subject–Verb–Object)** language.
 
 ### Example
 
-`Kahm AhKar Rahn`
-> I love the animal.
+`Kahm AhKar Kahme AhNahi`
+> I love my wife
 
 ---
 
@@ -48,6 +48,23 @@ It is an **SVO (Subject–Verb–Object)** language.
 - "Mar" derives from "Ma" (large → vast → eternal)
 - "Nar" derives from "Na" (small → none → never)
 - Older "Kra" survives in compounds, fossilized forms, and dialectal speech.
+
+---
+
+## Affirmation & Negation
+
+| Word    | Meaning                                              |
+|---------|------------------------------------------------------|
+| Rah     | yes                                                  |
+| Krah    | no                                                   |
+| Kra     | no (archaic / dialectal form of Krah)                |
+| RahDahn | corrective affirmation — "yes it is" / "doch"        |
+
+## Notes
+
+`RahDahn` (yes-away-from) pushes back against a negative assertion, functioning like German *doch* — affirming something the listener has denied.
+
+`Kra` is the older form of `Krah`, preserved in compounds, fossilized expressions, and conservative dialects.
 
 ---
 
@@ -96,11 +113,12 @@ NahVah possesses a distinct guttural register that stands apart from its otherwi
 | Sound   | IPA    | Notes                                           |
 |---------|--------|-------------------------------------------------|
 | Urh     | /uʀ̥/  | Back-of-throat constriction; voiceless trill    |
-| -gr     | /ɢʀ̩̰/ | Sentence-terminating particle; disgust / anger  |
+| -gr     | /ɢʀ̩̰/ | Stance particle; disgust / anger                |
+| -chh    | /t͡ʃh̤/ | Stance particle; submission / deference         |
 
 **Characteristics:** Vowelless or near-vowelless syllables, back-of-throat constriction, sudden airflow stops.
 
-**Aesthetic:** Heavy, animalistic, and intentionally disruptive to the natural flow of NahVah speech. These sounds carry strong negative or visceral connotation and are avoided in formal or sacred registers.
+**Aesthetic:** Heavy, animalistic, and intentionally disruptive to the natural flow of NahVah speech. These sounds carry strong negative or visceral connotation .
 
 ### General Patterns
 
@@ -118,7 +136,18 @@ Speakers naturally produce several phonological shifts:
 - tend to emphasize breathy "ah" sounds
 - show softer consonants overall
 
-This description reflects the current patterns observed in existing NahVah vocabulary rather than strict rules.
+### H-Drop
+
+The weakening or loss of /h/ and other shortening is a productive and well-documented process in NahVah, with the contracted form often becoming the dominant form over time.
+
+Examples:
+
+- `Ah AhChah → AhCh` (welcome)
+- `NahSeKar → AhSek` (breath)
+- `Bahs → Bas` (fight/combat) — the `h` drops, and `Bas` becomes the common spoken form
+- `D'Mim` — the `uzh` of `Duzh` erodes entirely
+
+These descriptions reflect the current patterns observed in existing NahVah vocabulary rather than strict rules for future development.
 
 ---
 
@@ -182,6 +211,8 @@ These forms likely originated as older ability-related forms before drifting tow
 | -uk    | instrumental / device          |
 | -un    | verbalizer                     |
 | -oz    | past-habitual ("used to")      |
+| -mim   | diminutive (little / minor form) |
+| -mam   | augmentative (large / major form) |
 
 ## Notes
 
@@ -202,7 +233,7 @@ Examples:
 > Speech is good.
 
 `Seln Lu AhKar.`
-> Flight is enjoyable.
+> Flight is enjoyable. (this use of AhKar is not standard. it is a stand-in for a moment, just for the lexicon.)
 
 ---
 
@@ -224,15 +255,16 @@ Once verbalized with `-un`, the root follows standard tense suffixes:
 
 ### Examples
 
-**Vahn** (speech) → verb family:
+**Vah** voice → family: 
 
 | Form    | Meaning          |
 |---------|------------------|
-| Vahnun  | to speak         |
-| Vahno   | spoke            |
-| Vahnu   | is speaking      |
-| Vahni   | will speak       |
-| Vahnox  | has spoken       |
+| Vahn | speech         |
+| Vahun  | to speak         |
+| Vaho  | spoke            |
+| Vahu  | is speaking      |
+| Vahi | will speak       |
+| Vahox  | has spoken       |
 
 **Bah** (hunter) → hunt verb family:
 
@@ -272,14 +304,20 @@ Example: `Karoz` — used to do
 
 ---
 
-## Sentence-Terminating Particles
+## Stance Particles
 
-NahVah allows optional particles at the end of sentences to convey speaker attitude or pragmatic function.
+NahVah stance particles convey speaker attitude or pragmatic function. They may appear sentence-finally or as standalone utterances. When romanized, The hyphen is maintained even when standalone.
 
-| Particle | IPA   | Meaning                        |
-|----------|-------|--------------------------------|
-| -e       | /ĕ/   | question marker                |
-| -gr      | /ɢʀ̩̰/ | disgust / anger                |
+| Particle | IPA     | Meaning                                        |
+|----------|---------|------------------------------------------------|
+| -e       | /ĕ/     | question marker; standalone: "huh?"            |
+| -gr      | /ɢʀ̩̰/  | disgust / frustration / revulsion; standalone: "ugh" / "oof" |
+| -ch      | /t͡ʃ/   | respect / honorific; may stand alone           |
+| -chh     | /t͡ʃh̤/ | submission / appeasement / compelled deference; may stand alone |
+
+### Notes on -chh
+
+`-chh` begins with the standard `ch` affricate and releases into a voiceless breathy `h` produced with a lowered larynx. The effect is audibly deflated or collapsed, reflecting its meaning of submission and compelled deference.
 
 ### Examples
 
@@ -316,7 +354,7 @@ These particles are drawn from or related to the guttural register. `-gr` in par
 | Gish        | place / location / site          |
 | AhGosh      | good home (the planet)           |
 | MarAhGosh   | eternal good home                |
-| NiMarAhGosh | exalted heaven                   |
+| NiēMarAhGosh | exalted heaven                   |
 | AhMarl      | realm of eternal good            |
 | AhKarl      | realm of love / righteous action |
 | MarUrh      | eternal damnation                |
@@ -325,11 +363,6 @@ These particles are drawn from or related to the guttural register. `-gr` in par
 ## Historical Notes
 
 `Gish` is likely historically related to `Gosh`, though the exact evolution is uncertain.
-
-In many dialects:
-
-- `Gosh` carries emotional or familial meaning
-- `Gish` remains neutral and geographic
 
 ---
 
@@ -352,6 +385,7 @@ Many NahVah-speakers conceptualize the stars as existing beyond or above the vis
 |---------|-----------------------|
 | Sel     | visible sky           |
 | NiSel   | higher heavens        |
+| MarSel | infinite heavens, deep space |
 | NiSelVi | lights beyond the sky |
 
 ---
@@ -390,7 +424,6 @@ NahVah color terminology is highly relational and environmentally derived. The s
 ## Historical Notes
 
 - `Chah` softened phonologically from `Chok`: `Chok → Chah` (rock → dirt)
-- `Shah` (dust) represents a further softening: `Chok → Chah → Shah`
 - `Chok` retains its original meaning of rock / stone / bedrock and does not extend to the broader concept of "earth"
 - `Chahe` uses the expanse suffix
 - `Achok` derives from `AhChok`
@@ -404,7 +437,7 @@ NahVah color terminology is highly relational and environmentally derived. The s
 |----------|--------------------------------------|
 | Shah     | dust                                 |
 | VoShah   | snow ("ice-dust")                    |
-| ChokShah | stone dust / sand / grit (potential) |
+| ChokShah | stone dust / sand / grit |
 
 ## Historical Notes
 
@@ -413,15 +446,11 @@ NahVah color terminology is highly relational and environmentally derived. The s
 `Chok → Chah → Shah`
 > rock → dirt → dust
 
-`VoShah` compounds `Vo` (ice) with `Shah` (dust), reflecting the visual and textural experience of snow as powdery ice.
-
-`ChokShah` (stone dust / sand / grit) is a likely natural derivative but not yet fully established.
-
 ---
 
 ## Natural Philosophy: Systematic Triads
 
-NahVah natural philosophy recognizes three interlocking triads that describe states of matter, water phases, and temperature. These are understood as a unified system by Nah philosophers.
+NahVah natural philosophy recognizes three interlocking triads that describe states of matter, water phases, and temperature. These are understood as a unified system.
 
 ### Water Phase Triad
 
@@ -434,8 +463,6 @@ NahVah natural philosophy recognizes three interlocking triads that describe sta
 `Vo → Va → Ve`
 > ice → water → steam
 
-`Va` (water) is the paradigmatic neutral substance in Nah philosophy — the default middle state against which other conditions are measured.
-
 ### State of Matter Triad
 
 | Word | Meaning |
@@ -447,7 +474,7 @@ NahVah natural philosophy recognizes three interlocking triads that describe sta
 `So → Sa → Se`
 > solid → liquid → gas
 
-**Note:** `Se` continues to mean "air" in ordinary speech. The broader meaning "gas" is recognized in natural philosophy contexts. The overlap is considered philosophically significant — air is the paradigmatic gas.
+**Note:** `Se` continues to mean "air" in ordinary speech. The broader meaning "gas" is recognized in natural philosophy contexts.
 
 ### Temperature Triad
 
@@ -472,6 +499,7 @@ NahVah natural philosophy recognizes three interlocking triads that describe sta
 | VaDiSel  | rain                           |
 | VaSe     | water vapor / atmospheric moisture |
 | SeVa     | water vapor (dialectal variant) |
+| SeVaSe | fog |
 | VoDiSel  | hail ("ice-from-sky")          |
 | VoShah   | snow ("ice-dust")              |
 
@@ -589,10 +617,6 @@ The life and death verbs may be shortened to Luhu and Lohu.
 | AhVaRahn            | freshwater creature                     |
 | VaRahn              | general water creature                  |
 | Mic                 | rodent / small scurrying creature       |
-| Bah                 | hunter                                  |
-| Bahk                | provide / support                       |
-| Bahkur              | provider                                |
-| Bahkuri             | female provider                         |
 | MicBah              | cat / rodent-hunter                     |
 | MicBahDiGosh        | housecat                                |
 | SelBah              | raptor / sky-hunter                     |
@@ -615,7 +639,14 @@ Animals are commonly categorized by:
 
 ---
 
-## Fighter Family
+## Hunter / Fighter Family
+| Word    | Meaning                   |
+|---------|---------------------------|
+| Bah                 | hunter                                |
+| Bahun  | to hunt |
+| Bahk                | provide                       |
+| Bahkur              | provider                                |
+| Bahkuri             | female provider
 
 | Word    | Meaning                   |
 |---------|---------------------------|
@@ -646,28 +677,90 @@ Animals are commonly categorized by:
 - **UnkEk** — wood-meat (insult for unpleasant food)
 - **UrhEk** — carrion (what UrhBah eat)
 
-## Cultural Notes
-
 ---
 
 ## Body Parts
 
-| Word         | Meaning                                        |
-|--------------|------------------------------------------------|
-| NahoaDiNah   | spirit of man                                  |
-| NahVi        | eyes ("man's light"); NahVio for plural        |
-| MitaSek      | nose ("two breaths")                           |
-| MitaSekMim   | nostril ("nose-thing")                         |
-| KuVah        | ears ("get-voice")                             |
-| Vahuk / Vuk  | mouth ("voice-maker"; Vuk is common form)      |
-| Karuk / Kak  | hand ("doer"; Kak is common form)              |
-| Kiruk / Kik  | foot ("goer"; Kik is common form)              |
+| Word   | Meaning |
+|--------|---------|
+| Chid   | head    |
+| Vid    | eye     |
+| Sod    | nose    |
+| Sid    | ear     |
+| Tod    | tongue  |
+| Vahuk  | mouth   |
+| Vuk    | mouth (common form of Vahuk) |
+| Vahuch | tooth   |
+| Karuk  | hand    |
+| Kak    | hand (common form of Karuk) |
+| Kiruk  | foot    |
+| Kik    | foot (common form of Kiruk) |
 
-## Historical Notes
+## Notes
 
-`Kik` (foot) derives from `Kiruk` long before any Nah had developed the concept of a vehicle. The later use of `Kiruk` for "vehicle" is independent and should not be understood as derived from the body part.
+`Vuk`, `Kak`, and `Kik` are the common contracted forms of `Vahuk`, `Karuk`, and `Kiruk` respectively, following the productive drop pattern.
 
-`MitaSek` derives from `Mita AhSeko` (two breaths), compressed in common usage.
+`Kiruk` (foot) predates any Nah concept of a vehicle. The later use of `Kiruk` for "vehicle" is independent and should not be understood as derived from the body part.
+
+## Sense Organs
+
+### Visual System
+
+| Word   | Meaning                        |
+|--------|--------------------------------|
+| Vid    | eye                            |
+| Vi     | light (see Light & Celestial)  |
+| Vidak  | spectacle / visual phenomenon  |
+| Veh    | sight / vision (the sense)     |
+| Vehu   | see (passive receipt of sight) |
+| Vidu   | look (active direction of gaze)|
+| Vidazh | watch (sustained visual monitoring) |
+
+### Auditory System
+
+| Word   | Meaning                             |
+|--------|-------------------------------------|
+| Sid    | ear                                 |
+| Sidak  | sound / auditory phenomenon         |
+| Seh    | hearing (the sense)                 |
+| Sehu   | hear (passive)                      |
+| Sidu   | listen (active)                     |
+| Sidazh | monitor by ear (sustained)          |
+
+### Olfactory System
+
+| Word   | Meaning                             |
+|--------|-------------------------------------|
+| Sod    | nose                                |
+| Sodak  | odor / scent                        |
+| Soh    | the olfactory sense                 |
+| Sohu   | smell (passive)                     |
+| Sodu   | sniff (active)                      |
+| Sodazh | monitor by scent (sustained)        |
+
+### Gustatory System
+
+| Word   | Meaning                             |
+|--------|-------------------------------------|
+| Tod    | tongue                              |
+| Todak  | flavor                              |
+| Toh    | the sense of taste                  |
+| Tohu   | taste (passive)                     |
+| Todu   | sample the taste (active)           |
+| Todazh | savor (sustained)                   |
+
+## Notes on Sense Organ Structure
+
+The sense organ system follows a consistent morphological pattern:
+
+| Element | Form | Meaning |
+|---------|------|---------|
+| Organ root | -id / -od / -od / -od | the physical organ |
+| Stimulus noun | root + -ak | the perceived phenomenon |
+| Sense concept | root vowel shift to -eh | the faculty/sense itself |
+| Passive verb | -ehu | to receive the sensation |
+| Active verb | -idu | to direct the sense |
+| Sustained verb | -idazh | to monitor continuously |
 
 ---
 
@@ -763,12 +856,12 @@ Love is fundamentally understood as righteous action, not merely emotion. Sin is
 
 | Word                     | Meaning                   |
 |--------------------------|---------------------------|
-| Nahoa                    | spirit                    |
-| NahoaDiNiMar(AhGosh)     | angels                    |
+| Naha                   | spirit                    |
+| NahaoDiNiMar(AhGosh)     | angels                    |
 | DiMar                    | devotional shortened form |
 | NahoDiNiMar              | priests                   |
 | NahoDiUrh / NahoDiMarUrh | damned souls              |
-| NahoaUrh                 | demons / accursed spirits |
+| NahaoUrh                 | demons / accursed spirits |
 
 ## Historical Notes
 
@@ -778,8 +871,11 @@ Dense sacred compounds are especially common in liturgy, ceremonial speech, theo
 
 Example:
 
-`NiēAhNahoaDiMarAhGosh`
+`NiēAhNahaDiMarAhGosh`
 
+## Meta Note
+previous versions of the lexicon blurred the singular and plural of spirit. 
+Naha is singular spirit. Nahao is the plural. following NahVah rules, compounds that include multiple spirits have the pluralizing suffix -o added to the root, not the end of the word.
 ---
 
 ## Existential / Sacred Forms
@@ -791,10 +887,6 @@ Example:
 
 ## Notes
 
-Some liturgical traditions preserve inscriptional forms such as:
-
-`UTKAHRU`
-
 Explicit existential statements are often considered weighty, philosophical, or sacred.
 
 ---
@@ -804,7 +896,7 @@ Explicit existential statements are often considered weighty, philosophical, or 
 | Word     | Meaning                                        |
 |----------|------------------------------------------------|
 | MiMi     | thing / object / item                          |
-| MiMiMiMi | whatchamacallit / thingamajig / unnamed object |
+| MiMiMi | whatchamacallit / thingamajig / unnamed object |
 
 ## Notes
 
@@ -813,7 +905,7 @@ Explicit existential statements are often considered weighty, philosophical, or 
 `Mi → MiMi`
 > one → thing
 
-Repeated forms express increasing uncertainty, frustration, or inability to recall the proper name of an object. Additional repetitions beyond `MiMiMiMi` indicate escalating frustration. This follows the existing NahVah pattern where repetition adds emotional or expressive content.
+Repeated forms express increasing uncertainty, frustration, or inability to recall the proper name of an object. Additional repetitions beyond `MiMiMi` indicate escalating frustration. This follows the existing NahVah pattern where repetition adds emotional or expressive content. previous versions of the lexicon they have specified that Mi x 4 was required for whatchamacallit or thingamajig, however, Mi x 3 is sufficient and additional Mi repetition escalates mentioned.
 
 `Mim` is a contracted bound form of `MiMi` that appears in compounds (e.g. `DuzhMim`). It is not a standalone word.
 
@@ -826,8 +918,7 @@ Repeated forms express increasing uncertainty, frustration, or inability to reca
 | Kar  | act / do         |
 | Kor  | make / create    |
 | Kir  | move             |
-| Krah | not / no / don't |
-| Rah  | yes              |
+
 
 ## Historical Notes
 
@@ -869,15 +960,6 @@ Repeated forms express increasing uncertainty, frustration, or inability to reca
 | Korur | maker / creator         |
 | Kirur | mover / transporter     |
 | Kiruk | moving device / vehicle |
-
-## Notes
-
-These follow the established suffix patterns:
-
-- `-ur` general agentive
-- `-uk` instrumental / device
-
-See also: `Bahkur` (provider) vs `Bahkuk` (providing device / instrument) in the Creature Classification section.
 
 ---
 
@@ -1046,6 +1128,8 @@ Common speech shortening:
 
 The original grammatical logic is no longer fully understood by most speakers.
 
+### Meta Note 
+The entire calendar and time system is under revision as of v.26C6.17
 ---
 
 ## Voice / Sound
@@ -1179,6 +1263,22 @@ If Nah philosophy develops a classical elemental tradition, the four elements wo
 
 ---
 
+## Weapons
+
+| Word        | Meaning                                      |
+|-------------|----------------------------------------------|
+| Urhtuk      | weapon (instrument of harmful touch)         |
+| BahUrhtuk   | hunting weapon                               |
+| BasUrhtuk   | war weapon / fighting weapon                 |
+
+## Notes
+
+`Urhtuk` derives from `Urht` (to touch, negative) + `-uk` (instrumental suffix). The concept of a weapon as a "harmful-touch-device" is consistent with NahVah's compositional logic.
+
+`Bas` is the h-drop form of `Bahs` (fight/combat), following the productive h-drop pattern. `BasUrhtuk` is the common spoken form.
+
+---
+
 ## Expressions
 
 `NiAh!`
@@ -1220,6 +1320,8 @@ Examples:
 
 ## Pronouns
 
+### Personal Pronouns
+
 | Word  | Meaning                     |
 |-------|-----------------------------|
 | Kahm  | I                           |
@@ -1231,6 +1333,49 @@ Examples:
 | Kahmo | we                          |
 | Kuhmo | you plural / y'all          |
 | Nahmo | they (plural)               |
+
+### Reflexive Pronouns
+
+| Word    | Meaning    |
+|---------|------------|
+| Kahzh   | myself     |
+| Kahazh  | himself    |
+| Kahizh  | herself    |
+| Kahmozh | ourselves  |
+| Nahmezh | themselves |
+
+### Demonstrative Pronouns
+
+| Word    | Meaning |
+|---------|---------|
+| Nuhet   | this    | 
+| Nuhret  | that    | 
+| Nuhoet  | these   | 
+| Nuhoret  | those   | 
+
+## Notes
+
+The demonstrative suffix `-et` (proximal) is the same as the indefinite article prefix et-. This is a coincidence. They are not linguistically related.
+
+Previous versions of the lexicon incorrectly placed the o for these and those at the end of the word. We have an established rule that the pluralizing suffix goes on the root. in this case the root is Nuh, a shortened form of Nuha: it.
+
+### Indefinite & Universal Pronouns
+
+| Word       | Meaning                  |
+|------------|--------------------------|
+| Mich       | some                     |
+| aMich      | any                      |
+| MichNah    | someone                  |
+| aMichNah   | anyone                   |
+| KraNah     | nobody                   |
+| MichMiMi   | something                |
+| aMichMiMi  | anything                 |
+| KraMiMi    | nothing                  |
+| MarZah     | whoever                  |
+| MarZuh     | whatever                 |
+| MarZuhDe   | wherever                 |
+| MarZuhKar  | however                  |
+| MarZuhNa   | for whatever reason      |
 
 ---
 
@@ -1393,6 +1538,8 @@ Examples:
 - `-n` = activity noun / abstract noun
 - `-s` = comparative
 - `-su` = superlative
+- `-mim` = diminutive
+- `-mam` = augmentative
 
 ---
 
